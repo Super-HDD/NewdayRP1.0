@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100;16..144,200;16..144,300;16..144,500;16..144,600;16..144,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+body{
+    position: relative;
+    margin:0 auto;
+    padding:0;
+}
+ 
+
+
+/*Custom classes*/
+.redmstyle{
+    clip-path: polygon(2% 0, 0% 20%, 1% 49%, 0% 80%, 3% 100%, 26% 96%, 96% 100%, 100% 88%, 99% 58%, 100% 20%, 99% 0, 60% 2%) !important;
+}
+.redmstyle,.redmstyle > .notify-content >  .notify__title, .redmstyle > .notify-content > .notify__text{     
+    background: #1e1c1d !important;
+    color:#fff !important;  
+    border:0px !important;
+    border-radius: 0px !important;
+    font-family: 'Montserrat Alternates', sans-serif;
+    
+}  
+.redmstyle::before{background: #fff !important;} 
+
+
+.redmstyle2{
+    clip-path: polygon(2% 0, 0% 20%, 1% 49%, 0% 80%, 3% 100%, 26% 96%, 96% 100%, 100% 88%, 99% 58%, 100% 20%, 99% 0, 60% 2%) !important;
+}
+.redmstyle2,.redmstyle2 > .notify-content >  .notify__title, .redmstyle2 > .notify-content > .notify__text{     
+    background: #1e1c1d !important;
+    color:#fff !important;  
+    border:0px !important;
+    border-radius: 0px !important;
+    font-family: 'Montagu Slab', serif !important;
+}  
+.redmstyle2::before{background: #fff !important;} 
+
+
+.redmstyle3{
+    clip-path: polygon(3% 0, 0 13%, 1% 37%, 0 82%, 1% 100%, 79% 97%, 98% 100%, 100% 87%, 100% 58%, 98% 21%, 99% 0, 60% 2%) !important;
+}
+.redmstyle3,.redmstyle3 > .notify-content >  .notify__title, .redmstyle3 > .notify-content > .notify__text{     
+    background: #1e1c1d !important;
+    color:#fff !important;  
+    border:0px !important;
+    border-radius: 0px !important;
+    font-family: 'Montagu Slab', serif !important;
+}  
+.redmstyle3::before{background: #fff !important;}
+
+
+.redmstyle4{
+    clip-path: polygon(3% 0, 0 13%, 1% 37%, 0 82%, 1% 100%, 79% 97%, 98% 100%, 100% 87%, 100% 58%, 98% 21%, 99% 0, 60% 2%) !important;
+}
+
+.redmstyle4,.redmstyle4 > .notify-content >  .notify__title, .redmstyle4 > .notify-content > .notify__text{     
+    background: #1e1c1d !important;
+    color:#fff !important;  
+    border:0px !important;
+    border-radius: 0px !important;
+    font-family: 'Satisfy', cursive !important; 
+}  
+.redmstyle4::before{background: #fff !important;}
+
+
+    
+/*Modern*/
+
+.pink1,.pink1 > .notify-content >  .notify__title, .pink1 > .notify-content > .notify__text{     
+    background: #FF69B4 !important;
+    color:#fff !important;  
+    border:0px !important;
+}  
+.pink1::before{background: #fff !important;}    
+
+
+.mdgreen,.mdgreen > .notify-content >  .notify__title, .mdgreen > .notify-content > .notify__text{
+    background: #074f57 !important; 
+    color:#fff !important; 
+    border:0px !important;}
+.mdgreen::before{background: #fff !important;}   
+
+.tealblue,.tealblue > .notify-content >  .notify__title, .tealblue > .notify-content > .notify__text{
+    background: #077187 !important;
+    color:#fff !important; 
+    border:0px !important;
+}
+.tealblue::before{background: #fff !important;}   
+
+.champane,.champane > .notify-content >  .notify__title,.champane > .notify-content > .notify__text{
+    background: #e4c5af!important;
+    color:#fff !important; 
+    border:0px !important;
+}
+.champane::before{background: #F3DFD0 !important;}     
+
+.earleblack,.earleblack > .notify-content >  .notify__title,.earleblack > .notify-content > .notify__text{
+    background: #252627!important; 
+    color:#fff !important; 
+    border:0px !important;
+}
+.earleblack::before{background: #fff !important;}  
+ 
+.cordovan,.cordovan > .notify-content >  .notify__title, .cordovan > .notify-content > .notify__text{
+    background: #904e55!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.cordovan::before{background: #fff !important;}     
+ 
+
+/*Update*/
+.coolgray,.coolgray> .notify-content >  .notify__title, .coolgray > .notify-content > .notify__text{
+    background: #938BA1!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.coolgray::before{background: #fff !important;}    
+
+.coolgray,.coolgray> .notify-content >  .notify__title, ..coolgray > .notify-content > .notify__text{
+    background: #7F2CCB!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.coolgray::before{background: #fff !important;}   
+
+.paradisepink,.paradisepink> .notify-content >  .notify__title, .paradisepink > .notify-content > .notify__text{
+    background: #ED4D6E!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.paradisepink::before{background: #fff !important;} 
+
+.beutypurple,.beutypurple> .notify-content >  .notify__title, .beutypurple > .notify-content > .notify__text{
+    background: #7F2CCB!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.beutypurple::before{background: #fff !important;} 
+
+.spacecadet,.spacecadet> .notify-content >  .notify__title, .spacecadet > .notify-content > .notify__text{
+    background: #2A2D43!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.spacecadet::before{background: #fff !important;} 
+
+
+.smgreen,.smgreen> .notify-content >  .notify__title, .smgreen > .notify-content > .notify__text{
+    background: #7DDF64!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.smgreen::before{background: #fff !important;} 
+
+
+
+.blackcoral,.blackcoral> .notify-content >  .notify__title, .blackcoral > .notify-content > .notify__text{
+    background: #465362!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.blackcoral::before{background: #fff !important;} 
+
+
+.nicket,.nicket> .notify-content >  .notify__title, .nicket > .notify-content > .notify__text{
+    background: #6A706E!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.nicket::before{background: #fff !important;} 
+
+
+
+
+.jet,.jet> .notify-content >  .notify__title, .jet > .notify-content > .notify__text{
+    background: #323031!important; 
+    color:#fff !important; 
+    border:0px !important; 
+}
+.jet::before{background: #fff !important;} 
+
+
+ 
+
+ 

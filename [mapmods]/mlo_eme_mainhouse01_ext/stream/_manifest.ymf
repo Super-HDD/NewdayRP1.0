@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+  <Item>
+   <imapName>mlo_eme_01__interior_eme_saloon_int_milo_</imapName>
+   <itypName>hea_tunnel_02</itypName>
+   <packFileName />
+  </Item>
+  <Item>
+   <imapName>mlo_eme_01__interior_eme_genstore_int_milo_</imapName>
+   <itypName>hea_tunnel_02</itypName>
+   <packFileName />
+  </Item>
+  <Item>
+   <imapName>mlo_eme_01__interior_eme_barn_int_milo_</imapName>
+   <itypName>hea_tunnel_02</itypName>
+   <packFileName />
+  </Item>
+
+  <Item>
+   <imapName>mlo_eme_01_</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>jklm_11_14_area_lod_combine_metadata_005</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>mlo_eme_01__strm_0</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>jklm_11_14_area_lod_combine_metadata_004_strm</Item>
+    <Item>p_camp</Item>
+    <Item>p_debris</Item>
+    <Item>p_door02</Item>
+    <Item>p_farm</Item>
+    <Item>p_fence</Item>
+    <Item>p_household</Item>
+    <Item>p_kitchen</Item>
+    <Item>p_light_ground01</Item>
+    <Item>p_roadside</Item>
+    <Item>p_storage</Item>
+    <Item>p_storage02</Item>
+    <Item>p_store</Item>
+    <Item>p_table</Item>
+    <Item>p_tool</Item>
+    <Item>p_vehicle_static</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>mlo_eme_be8</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>jklm_11_14_area_lod_combine_metadata_004_strm</Item>
+    <Item>p_armory</Item>
+    <Item>p_camp</Item>
+    <Item>p_carcass</Item>
+    <Item>p_clothing</Item>
+    <Item>p_debris</Item>
+    <Item>p_door</Item>
+    <Item>p_drink</Item>
+    <Item>p_drug</Item>
+    <Item>p_farm</Item>
+    <Item>p_fence</Item>
+    <Item>p_food</Item>
+    <Item>p_furniture</Item>
+    <Item>p_graveyard</Item>
+    <Item>p_household</Item>
+    <Item>p_hunting</Item>
+    <Item>p_kitchen</Item>
+    <Item>p_light_ground01</Item>
+    <Item>p_light_hanging01</Item>
+    <Item>p_light_wall01</Item>
+    <Item>p_new_01</Item>
+    <Item>p_office</Item>
+    <Item>p_roadside</Item>
+    <Item>p_seating</Item>
+    <Item>p_storage</Item>
+    <Item>p_storage02</Item>
+    <Item>p_store</Item>
+    <Item>p_table</Item>
+    <Item>p_tool</Item>
+    <Item>p_vehicle_static</Item>
+    <Item>p_window</Item>
+    <Item>s_cs_objects</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>mlo_eme_01__long_0</imapName>
+   <manifestFlags />
+   <itypDepArray>
+    <Item>p_debris</Item>
+    <Item>p_farm</Item>
+    <Item>p_food</Item>
+    <Item>p_light_ground01</Item>
+    <Item>p_lumber</Item>
+    <Item>p_outhouse</Item>
+    <Item>p_roadside</Item>
+    <Item>p_seating</Item>
+    <Item>p_tool</Item>
+    <Item>p_watertower</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>mlo_eme_01__interior_eme_saloon_int_milo_</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>eme_saloon_int</Item>
+    <Item>p_door</Item>
+    <Item>p_drink</Item>
+    <Item>p_drug</Item>
+    <Item>p_household</Item>
+    <Item>p_hunting</Item>
+    <Item>p_kitchen</Item>
+    <Item>p_light</Item>
+    <Item>p_light_ground01</Item>
+    <Item>p_seating</Item>
+    <Item>p_storage</Item>
+    <Item>p_storage02</Item>
+    <Item>p_store</Item>
+    <Item>p_table</Item>
+    <Item>p_tool</Item>
+    <Item>p_window</Item>
+    <Item>s_cs_objects</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>mlo_eme_01__interior_eme_genstore_int_milo_</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>eme_genstore_int</Item>
+    <Item>p_door</Item>
+    <Item>p_hunting</Item>
+    <Item>p_kitchen</Item>
+    <Item>p_light_wall01</Item>
+    <Item>p_storage</Item>
+    <Item>p_storage02</Item>
+    <Item>p_store</Item>
+    <Item>p_tool</Item>
+   </itypDepArray>
+  </Item>
+  <Item>
+   <imapName>mlo_eme_01__interior_eme_barn_int_milo_</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>eme_barn_int</Item>
+    <Item>p_armory</Item>
+    <Item>p_camp</Item>
+    <Item>p_cloth</Item>
+    <Item>p_debris</Item>
+    <Item>p_door</Item>
+    <Item>p_door02</Item>
+    <Item>p_drink</Item>
+    <Item>p_farm</Item>
+    <Item>p_food</Item>
+    <Item>p_furniture</Item>
+    <Item>p_household</Item>
+    <Item>p_hunting</Item>
+    <Item>p_kitchen</Item>
+    <Item>p_light_ground01</Item>
+    <Item>p_light_hanging01</Item>
+    <Item>p_light_wall01</Item>
+    <Item>p_seating</Item>
+    <Item>p_storage</Item>
+    <Item>p_storage02</Item>
+    <Item>p_store</Item>
+    <Item>p_table</Item>
+    <Item>p_tool</Item>
+    <Item>p_vehicle_static</Item>
+    <Item>s_cs_objects</Item>
+   </itypDepArray>
+  </Item>
+
+
+<Item>
+  <imapName>mlo_eme_mainhouse01_ymap</imapName> 
+  <manifestFlags>INTERIOR_DATA</manifestFlags>
+  <itypDepArray>
+    <Item>mlo_eme_mainhouse01_ytyp</Item>
+  </itypDepArray>
+</Item>
+
+</imapDependencies_2>
+<itypDependencies_2>
+  <Item>
+   <itypName>mlo_eme_mainhouse01_ytyp</itypName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+   </itypDepArray>
+ </Item>
+</itypDependencies_2>
+<Interiors>
+ <Item>
+  <Name>mlo_eme_mainhouse01_int_col</Name>
+  <Bounds>
+    <Item>mlo_eme_mainhouse01_int_col</Item>
+  </Bounds>
+</Item>
+</Interiors>
+<redm_loves_you_7cc2afb2d40476ed/>
+<redm_loves_you_c1fa8cdfbc6c9972/>
+<txdRelationships/>
+<redm_loves_you_faf7283fa0923550/>
+<redm_loves_you_5179f30cceb03389/>
+</CPackFileMetaData>

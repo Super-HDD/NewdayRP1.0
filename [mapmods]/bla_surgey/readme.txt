@@ -1,0 +1,4 @@
+bla_surgey_back_door 0x86E103CF
+bla_surgey_room_door 0x37D4BC7C
+bla_surgey_r_door 0x99074495
+bla_surgey_l_door 0xF86975A6

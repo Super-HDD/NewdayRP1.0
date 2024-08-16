@@ -1,0 +1,68 @@
+.root 
+{
+    display:flex;
+
+    flex-direction: row;
+
+    width: max-content;
+
+    height: max-content;
+
+    padding: 1.5vh 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    
+    // background: yellow;
+}
+
+.root .tableSeat 
+{
+    
+    background: url('https://i.imgur.com/OlciymU.png');
+    background-position: center;
+    background-size: 100% 100%; 
+
+    color: white;
+    font-size: 2em;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+    width: 7vh;
+    height: 7vh;
+}   
+
+.root .boxGame
+{
+    padding-left: 1vh;
+
+    .images
+    {
+        display: flex;
+        flex-direction: row;
+    }
+
+    span
+    {    
+        background: url('https://i.imgur.com/yHzMGkD.png');
+        background-position: center;
+        background-size: 100% 100%; 
+        color: white;
+        font-size: 1.8vh;
+        padding: 0.2vh 0.8vh;
+
+        transition: all 0.5s;
+        text-align: left;
+    }
+
+    .turn 
+    {        
+        background: url('https://i.imgur.com/vSWj92m.png');
+        background-position: center;
+        background-size: 100% 100%;
+        color: black;
+    }
+}

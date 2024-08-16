@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="1000"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.0488467" y="0.0723896" z="-0.4724903" />
+      <bbMax x="2.3633785" y="10.211208" z="3.122208" />
+      <bsCentre x="0.1572659" y="5.141799" z="1.3248589" />
+      <bsRadius value="5.8134594" />
+      <hdTextureDist value="60.0"/>
+      <name>almacen2</name>
+      <textureDictionary>almacen2</textureDictionary>
+      <physicsDictionary>almacen2</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>almacen2</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>almacen2</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

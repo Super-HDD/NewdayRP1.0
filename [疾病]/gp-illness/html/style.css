@@ -1,0 +1,27 @@
+@font-face {
+    font-family: crock;
+    src: url(crock.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background: none !important;
+}
+
+#container{
+    cursor: none;
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: crock;
+    font-size: 2.5rem;
+}

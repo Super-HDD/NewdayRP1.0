@@ -1,0 +1,4 @@
+QBShared.Locations = {
+    -- add here
+
+}

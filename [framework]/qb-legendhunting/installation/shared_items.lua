@@ -1,0 +1,3 @@
+	-- hunting items
+    ['basic_hunt_bait']        = {['name'] = 'basic_hunt_bait',        ['label'] = 'Basic Hunting Bait',         ['weight'] = 100, ['type'] = 'item', ['image'] = 'basic_hunt_bait.png',        ['unique'] = false, ['useable'] = true,  ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'Basic Bait for Hunting'},
+    ['prime_hunt_bait']        = {['name'] = 'prime_hunt_bait',        ['label'] = 'Prime Hunting Bait',         ['weight'] = 100, ['type'] = 'item', ['image'] = 'prime_hunt_bait.png',        ['unique'] = false, ['useable'] = true,  ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'Prime Bait for Hunting'},

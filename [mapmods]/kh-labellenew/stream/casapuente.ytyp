@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="1000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-4.473714" y="-4.873229" z="-0.3039317" />
+      <bbMax x="4.988679" y="9.209759" z="7.5936594" />
+      <bsCentre x="0.25748253" y="2.1682649" z="3.6448638" />
+      <bsRadius value="9.357342" />
+      <hdTextureDist value="60.0"/>
+      <name>casapuente</name>
+      <textureDictionary>casapuente</textureDictionary>
+      <physicsDictionary>casapuente</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>casapuente</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>casapuente</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

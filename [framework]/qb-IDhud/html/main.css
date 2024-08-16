@@ -1,0 +1,102 @@
+    @font-face {
+        font-family: TrenchThin;
+        src: url(TrenchThin.ttf);
+}
+
+
+body {
+    overflow-x: hidden; /* 隐藏水平滚动条 */
+    overflow: hidden; /* 隐藏垂直和水平滚动条 */
+  }
+  
+
+
+
+#playerLocation {
+    
+    position: absolute;
+    
+    top: 97%;
+    left: 85%;
+    height: auto;
+    width: auto;
+    grid-row: 2;
+}
+#name {
+    font-size: 20px;
+    font-family: TrenchThin;
+    margin-top: 0px;
+    margin-right: 3px;
+    text-align: left;
+    align-items: center;
+    color:white;
+}
+#cash {
+    font-size: 20px;
+    font-family: TrenchThin;
+    margin-top: 5px;
+    margin-right: 3px;
+    text-align: left;
+    align-items: center;
+    color:white;
+}
+
+#bank {
+    font-size: 20px;
+    font-family: TrenchThin;
+    margin-top: 10px;
+    margin-right: 3px;
+    text-align: left;
+    align-items: center;
+    color:white;
+}
+
+#black {
+    font-size: 20px;
+    font-family: TrenchThin;
+    margin-top: 15px;
+    margin-right: 3px;
+    text-align: left;
+    align-items: center;
+    color:white;
+}
+
+
+#job {
+    font-size: 20px;
+    font-family: TrenchThin;
+    margin-top: 20px;
+    
+    text-align: left;
+    align-items: center;
+    color:white;
+}
+#location {
+    color: white;
+    
+    margin-top: 0.5px;
+    
+    align-items: center;
+    
+}
+
+#speed, #fuel {
+    font-size: 18px;
+    font-family: TrenchThin;
+    margin: 10px;
+    text-align: left;
+    align-items: center;
+    color:white;
+}
+#car-hud {
+    background-color: rgba(16, 16, 16, 0.861);
+    position: absolute;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    top: 86%;
+    left: 16%;
+    height: auto;
+    width: auto;
+    grid-row: 2;
+}

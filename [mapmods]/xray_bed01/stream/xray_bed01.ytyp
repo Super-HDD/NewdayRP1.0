@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <bbMin x="1.24388909" y="0.5698277" z="-0.4428711" />
+      <bbMax x="2.527092" y="1.61767924" z="0.6650386" />
+      <bsCentre x="1.88549054" y="1.09375346" z="0.111083746" />
+      <bsRadius value="0.996502161" />
+      <bsRadius value="0" />
+      <hdTextureDist value="60.0"/>
+      <name>xray_bed01</name>
+      <textureDictionary>xray_bed01</textureDictionary>
+      <physicsDictionary>xray_bed01</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>xray_bed01</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>xray_bed01</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

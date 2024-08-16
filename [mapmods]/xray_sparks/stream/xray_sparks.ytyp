@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <bbMin x="-0.2856445" y="-0.4042969" z="-0.3105469" />
+      <bbMax x="0.3432617" y="0.3422852" z="0.3105469" />
+      <bsCentre x="0.0288085938" y="-0.03100586" z="0" />
+      <bsRadius value="0.5785035" />
+      <bsRadius value="0" />
+      <hdTextureDist value="60.0"/>
+      <name>xray_sparks</name>
+      <textureDictionary>xray_sparks</textureDictionary>
+      <physicsDictionary>xray_sparks</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>xray_sparks</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>xray_sparks</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

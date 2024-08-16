@@ -1,0 +1,4 @@
+Config = {}
+
+Config.Framework = "rsg" 
+

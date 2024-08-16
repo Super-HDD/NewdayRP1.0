@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>mlo_eme_01_</name>
+  <parent>jklm_11_14_area_lod</parent>
+  <flags value="3"/>
+  <contentFlags value="50"/>
+  <streamingExtentsMin x="669.36870000" y="-426.39570000" z="-650.57440000"/>
+  <streamingExtentsMax x="2169.36900000" y="1073.60400000" z="849.42560000"/>
+  <entitiesExtentsMin x="1310.80700000" y="255.43120000" z="79.75125000"/>
+  <entitiesExtentsMax x="1524.42300000" y="466.50130000" z="114.31250000"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>eme01pr_combo01_slod</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x48CCB4DDFC54FDE9"/>
+      <position x="1419.36900000" y="323.60430000" z="99.42561000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="750.00000000"/>
+      <childLodDist value="400.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_SLOD1</lodLevel>
+      <numChildren value="24"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_8xn28po</archetypeName>
+      <flags value="1572872"/>
+      <id value="0x49A67F223E51B80B"/>
+      <position x="1411.09700000" y="268.52470000" z="81.30170000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="21"/>
+      <lodDist value="650.00000000"/>
+      <childLodDist value="300.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_SLOD1</lodLevel>
+      <numChildren value="16"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_69hbdzw</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4095DD506AE1BFB9"/>
+      <position x="1416.60900000" y="379.60820000" z="88.40961000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="165.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9prhcld</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4959EC20C4A290BD"/>
+      <position x="1447.10500000" y="339.27520000" z="87.92804000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="165.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_i9r2cm</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x435F81EFBFAA1D05"/>
+      <position x="1452.68600000" y="287.56780000" z="101.13860000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="200.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_lwyvpl</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x48267020C12B9F43"/>
+      <position x="1438.85000000" y="348.16490000" z="88.51163000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="131.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="8"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_6h7mxiy</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x425E9A9028965D15"/>
+      <position x="1375.33300000" y="349.29650000" z="86.77219000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_80m5kgv</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4946CADED7BE3308"/>
+      <position x="1435.83600000" y="272.26070000" z="89.24377000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="150.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_8le6z8b</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4B354CBEAD46843D"/>
+      <position x="1442.99400000" y="379.22540000" z="88.87560000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="150.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_98w0ajr</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x448DE0ABA7E3A22D"/>
+      <position x="1439.83600000" y="263.68440000" z="89.77850000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="165.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_m8q2wk</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4664A23BD1FA042E"/>
+      <position x="1432.63700000" y="321.52000000" z="88.08115000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="190.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="4"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9lhoog</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x48D77039F1622861"/>
+      <position x="1440.25200000" y="343.57170000" z="88.64690000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="87.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9cfsmm0</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4F30419C7516ABAD"/>
+      <position x="1432.19700000" y="291.90530000" z="88.06017000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="150.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9zqt767</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x42F2D3DADF6EF682"/>
+      <position x="1455.48900000" y="418.32510000" z="92.59499000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_xn5j1y</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4A53B68928138DCB"/>
+      <position x="1419.03100000" y="272.15190000" z="88.36851000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="97.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="23"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_8w3jqb0</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x44EC3EC468DE8537"/>
+      <position x="1357.15500000" y="315.08760000" z="86.96105000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="59.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="11"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_97fiu37</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4B6F248014211E8F"/>
+      <position x="1454.09800000" y="391.33510000" z="89.69415000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="67.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="7"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_70bynq</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4EF44287F3CBA391"/>
+      <position x="1411.63000000" y="313.60410000" z="87.85394000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="125.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="177"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_6utvy2</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4512DA682FC55C52"/>
+      <position x="1461.20000000" y="292.48750000" z="91.41080000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="350.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_8zhsyh5</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4411A55D8AEEFDED"/>
+      <position x="1456.80400000" y="329.59680000" z="88.49500000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="150.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_3m0v19</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x412774558E84C4C1"/>
+      <position x="1409.42500000" y="314.99100000" z="87.49204000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="132.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="5"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9dptnou</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x421C2C29EC0128B2"/>
+      <position x="1430.17200000" y="367.53870000" z="88.01756000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9o68o7r</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4A1B0A5A2479617B"/>
+      <position x="1432.19600000" y="257.81030000" z="89.22225000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_ufcnva</archetypeName>
+      <flags value="1572928"/>
+      <id value="0x46BD8188950F3310"/>
+      <position x="1420.61500000" y="380.02980000" z="90.06676000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_889icde</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x428D67364A703C1C"/>
+      <position x="1325.07600000" y="299.48590000" z="86.52785000"/>
+      <rotation x="0.61429210" y="0.71922500" z="-0.24682000" w="0.21080900"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="70.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_8n3odq</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x43CDE32D5CF114A1"/>
+      <position x="1439.36600000" y="268.48100000" z="92.83316000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.76546890" w="-0.64347300"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="95.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_7twt6mr</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x46981417A196000E"/>
+      <position x="1386.95100000" y="356.14030000" z="90.40802000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.08715597" w="0.99619470"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="90.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9yg3a2r</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4EAED2B24A3ACB87"/>
+      <position x="1384.76600000" y="320.69240000" z="88.44401000"/>
+      <rotation x="0.42298200" y="0.58988500" z="0.55898300" w="-0.40082400"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="85.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9z3khxn</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x41271C1791EE3637"/>
+      <position x="1389.20500000" y="262.76460000" z="90.19946000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.78315220" w="-0.62183010"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="85.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_95nu6fw</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x444B7705E6017063"/>
+      <position x="1446.05300000" y="350.75930000" z="89.88216000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.04361901" w="0.99904820"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="105.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_6q0vtgh</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x46E116EE7A211C1C"/>
+      <position x="1419.77600000" y="373.95260000" z="89.04833000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99144540" w="-0.13052310"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="120.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_dbobc4</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4EBE1063B91C94AC"/>
+      <position x="1372.48300000" y="272.29460000" z="89.37597000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="85.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_7u4aupw</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4D10293551D8D0C3"/>
+      <position x="1359.66600000" y="294.89970000" z="88.69535000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.77669180" w="-0.62988080"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="85.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_85g73dh</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x49AB048D865CBB88"/>
+      <position x="1445.87700000" y="374.56820000" z="93.38200000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="70.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_pctkb6</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4C67AC60BA0BF72A"/>
+      <position x="1317.60000000" y="462.71670000" z="86.30797000"/>
+      <rotation x="0.65600890" y="0.68138990" z="-0.23383500" w="0.22512500"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="100.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_lxbtkc</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x4C8F0CCEC44997B8"/>
+      <position x="1409.00200000" y="274.58590000" z="90.28123000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="150.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_9aacjo5</archetypeName>
+      <flags value="1572864"/>
+      <id value="0x471B0BF2AE2E68B6"/>
+      <position x="1464.06100000" y="314.65660000" z="95.18941000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="95.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_gyedc4</archetypeName>
+      <flags value="1572928"/>
+      <id value="0x4C2B2CA5F51A36B8"/>
+      <position x="1409.73500000" y="274.35130000" z="92.74075000"/>
+      <rotation x="0.00000000" y="0.00000000" z="-0.12912410" w="0.99162850"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="300.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_8illijo</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4990585D948083A9"/>
+      <position x="1417.70100000" y="346.92680000" z="87.97115000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="165.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_6ecw2d</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x40B836CC22791FC5"/>
+      <position x="1400.02700000" y="272.83090000" z="88.20531000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="106.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="2"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_50gm629</archetypeName>
+      <flags value="68681728"/>
+      <id value="0x4F29DB20940883B0"/>
+      <position x="1444.44700000" y="294.67240000" z="93.09843000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="0"/>
+      <lodDist value="400.00000000"/>
+      <childLodDist value="300.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>collision_wcirss</archetypeName>
+      <flags value="1572928"/>
+      <id value="0x489E0415ED612403"/>
+      <position x="1451.12000000" y="370.31500000" z="89.48252000"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="1"/>
+      <lodDist value="200.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_LOD</lodLevel>
+      <numChildren value="1"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <powerGridId value="0" />
+      <tintValue value="0"/>
+      <redm_loves_you_2158e9a42f04a7dc value="255" />
+      <redm_loves_you_7dd29b0dd179bea5 value="255" />
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels>
+  </occludeModels>
+  <physicsDictionaries/>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <UNK_MEMBER_0x8471928B/>
+  <UNK_MEMBER_0x4D4A0635/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+    <UNK_MEMBER_0xFFD167D6/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <UNK_MEMBER_0x94720DEC/>
+    <intensity/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+    <UNK_MEMBER_0xFFEC781A/>
+    <hash/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name>eme_01_</name>
+    <exportedBy>dlogashov</exportedBy>
+    <owner/>
+    <time>30 July 2018 19:47</time>
+  </block>
+</CMapData>

@@ -1,0 +1,162 @@
+@font-face {font-family: "Hapna";
+    src: url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.eot");
+    src: url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.eot?#iefix") format("embedded-opentype"),
+            url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.woff2") format("woff2"),
+            url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.woff") format("woff"),
+            url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.ttf") format("truetype"),
+            url("https://db.onlinewebfonts.com/t/2dfd1aef90d202fb927ae72f5e1fd6d6.svg#HapnaSlabSerifW00-Medium") format("svg"); }
+
+@font-face {font-family: "RDRLino";
+    src: url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.eot");
+    src: url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.eot?#iefix") format("embedded-opentype"),
+            url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.woff2") format("woff2"),
+            url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.woff") format("woff"),
+            url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.ttf") format("truetype"),
+            url("https://db.onlinewebfonts.com/t/ab21a97b9cae2e116d8d1473baefc9f0.svg#RDR Lino") format("svg"); }
+
+#texasholdem-wrapper {
+    height: 100vh;
+    width: 100vw;
+    color: #fff;
+    text-shadow: 2px 2px 0px #000000;
+    font-size: 20px;
+    font-family: "Hapna";
+    font-weight: 540;
+    display: none;
+}
+#dealer-cards {
+    position: absolute;
+    right: 2%;
+    top: 4%;
+    height: 140px;
+    text-align: right;
+    min-width: 10px;
+}
+
+#dealer-cards ul, #player-cards {
+    margin: 0;
+    padding: 0;
+}
+
+#dealer-cards ul {
+    height: 142px;
+    float:right
+}
+
+#dealer-cards ul li {
+    float: right;
+    margin: 6px;
+}
+
+#player-cards {
+    position: absolute;
+    left: 4%;
+    bottom: 4%;
+    width: 30%;
+}
+
+#player-cards .player {
+    margin-top: 48px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+#player-cards ul.leftBlock {
+    height: 72px;
+    width: min-content;
+    min-width: 140px;
+    display: inline-block;
+}
+
+#player-cards ul.rightBlock {
+    height: 72px;
+    width: min-content;
+    min-width: 200px;
+    display: inline-block;
+}
+
+#player-cards ul li {
+    float: left;
+    margin: 3px;
+    white-space: nowrap;
+}
+
+#player-cards .player ul li img {
+    height: 64px;
+}
+
+li.money, li.name  {
+    font-family: "RDRLino";
+    font-size: 30px;
+    line-height: 20px;
+    width: 100%;
+    margin-top: 8px !important;
+}
+
+.cardinfo {
+    clear:both;  
+    padding-left: 3px;
+    padding-right: 6px;
+}
+
+.player-pic {
+    position: absolute;
+    left: 0;
+    height: 96px;
+    width:24px;
+    color: #aaa;
+    border-right: 3px solid #aaa;
+    box-shadow:#000000 2px 0px 0px;
+    text-align: right;
+    padding-right: 6px;
+    line-height: 24px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.player-pic.active.yourself {    
+    color: #d13a4fff;
+    animation: blinker 1s linear infinite;
+}
+
+.redtext {
+    color: #d13a4fff;
+    font-weight: 650;
+}
+
+.player-pic.active.otherplayer {
+    color: #fff;
+    border-right: 3px solid #fff;
+}
+.player-pic.bust {
+    opacity: 0.65;
+}
+
+.player-pic img {
+    position: absolute;
+    width: 100%;
+    height: 45%;
+    left: 0;
+    bottom: 0;
+}
+
+.seattype {
+    float: right;
+    margin-right: 6px;
+    font-size: 16px;
+    border: 3px solid #fff;
+    padding: 2px;
+    width: 16px;
+    height: 16px;
+    text-align: center;
+    line-height: 18px;
+    border-radius: 20px;
+    margin-top: -6px;
+    filter: drop-shadow(2px 2px 0px #000);
+}
+
+@keyframes blinker {
+    50% {
+        border-right: 3px solid #d13a4fff;
+    }
+}

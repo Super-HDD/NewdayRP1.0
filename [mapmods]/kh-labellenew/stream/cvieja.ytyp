@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="1000"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-3.4387126" y="-4.6803756" z="-1.5935585" />
+      <bbMax x="6.454124" y="3.6121469" z="4.4977117" />
+      <bsCentre x="1.5077057" y="-0.53411436" z="1.4520766" />
+      <bsRadius value="7.136836" />
+      <hdTextureDist value="60.0"/>
+      <name>cvieja</name>
+      <textureDictionary>cvieja</textureDictionary>
+      <physicsDictionary>cvieja</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>cvieja</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>cvieja</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

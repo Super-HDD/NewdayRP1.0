@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-245.000000" y="790.000000" z="95.000000"/>
+	<streamingExtentsMax x="-200.000000" y="825.000000" z="135.000000"/>
+	<entitiesExtentsMin x="-230.691467" y="802.800781" z="124.074997"/>
+	<entitiesExtentsMax x="-224.059998" y="808.030029" z="124.074997"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_candle01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-225.220001" y="808.030029" z="124.074997"/>
+			<rotation w="0.904129" x="-0.000000" y="0.000000" z="0.427259"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_candle01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-226.792404" y="804.467468" z="124.074997"/>
+			<rotation w="0.844807" x="-0.000000" y="0.000000" z="0.535071"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_candle01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-224.059998" y="806.121704" z="124.074997"/>
+			<rotation w="0.838573" x="-0.000000" y="0.000000" z="0.544789"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_candle01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-229.525894" y="802.800781" z="124.074997"/>
+			<rotation w="0.844808" x="-0.000000" y="0.000000" z="0.535069"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_candle01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-227.957520" y="806.371887" z="124.074997"/>
+			<rotation w="0.872123" x="-0.000000" y="0.000000" z="0.489286"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_candle01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-230.691467" y="804.715027" z="124.074997"/>
+			<rotation w="0.862548" x="-0.000000" y="0.000000" z="0.505975"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="500"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-5.3598948" y="-5.962668" z="-0.010798017" />
+      <bbMax x="5.5095854" y="3.771597" z="8.744694" />
+      <bsCentre x="0.074845314" y="-1.0955355" z="4.3669477" />
+      <bsRadius value="8.508233" />
+      <hdTextureDist value="60.0"/>
+      <name>house2f2</name>
+      <textureDictionary>house2f2</textureDictionary>
+      <physicsDictionary>house2f2</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>house2f2</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>house2f2</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

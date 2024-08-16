@@ -1,0 +1,50 @@
+@font-face { 
+    font-family: 'Hapna'; 
+    src: url('../../assets/fonts/HapnaSlabSerif-DemiBold.ttf'); 
+} 
+
+*{
+    font-family: 'Hapna';
+}
+
+.root 
+{
+    width: 100vw;
+    height: 100vh;
+
+    position: relative;
+
+    overflow: hidden;
+
+    color:#a6a6a5;
+
+    transition: all 0.5s;
+
+    display:none;
+
+}
+
+.active 
+{
+    display:block;
+}
+
+.root .header 
+{
+    position:absolute;
+    right: 7vh;
+    top: 13vh;
+
+    padding: 1vh 2vh;
+
+    text-align: right;
+
+    background: url('https://i.imgur.com/yHzMGkD.png');
+    background-position: center;
+    background-size: 100% 100%; 
+
+    color: white;
+
+    font-size: 1.2em;
+}
+

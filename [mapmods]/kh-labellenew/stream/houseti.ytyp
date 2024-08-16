@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="500"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.5612247" y="-3.8636484" z="-0.05204213" />
+      <bbMax x="2.7101328" y="3.8136182" z="3.75939" />
+      <bsCentre x="0.07445407" y="-0.025015116" z="1.8536739" />
+      <bsRadius value="5.0312686" />
+      <hdTextureDist value="60.0"/>
+      <name>houseti</name>
+      <textureDictionary>houseti</textureDictionary>
+      <physicsDictionary>houseti</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>houseti</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>houseti</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

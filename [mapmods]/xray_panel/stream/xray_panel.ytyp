@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.59375" y="0.8603516" z="-1.814453" />
+      <bbMax x="-0.2275391" y="1.608887" z="-0.2197266" />
+      <bsCentre x="-0.410644561" y="1.23461926" z="-1.01708984" />
+      <bsRadius value="0.899662137" />
+      <hdTextureDist value="60.0"/>
+      <name>xray_panel</name>
+      <textureDictionary>xray_panel</textureDictionary>
+      <physicsDictionary>xray_panel</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>xray_panel</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>xray_panel</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

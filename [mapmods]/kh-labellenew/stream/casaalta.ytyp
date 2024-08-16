@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="500"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-1.3217945" y="-9.052495" z="0.5873111" />
+      <bbMax x="12.039378" y="3.6794524" z="17.029871" />
+      <bsCentre x="5.358792" y="-2.6865213" z="8.808591" />
+      <bsRadius value="12.359017" />
+      <hdTextureDist value="60.0"/>
+      <name>casaalta</name>
+      <textureDictionary>casaalta</textureDictionary>
+      <physicsDictionary>casaalta</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>casaalta</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>casaalta</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

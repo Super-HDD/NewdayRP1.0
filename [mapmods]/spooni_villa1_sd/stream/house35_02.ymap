@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="2246.594" y="-1294.44458" z="-81.8136444" />
+ 	<streamingExtentsMax x="2502.636" y="-1035.2229" z="174.20285" />
+ 	<entitiesExtentsMin x="2315.7" y="-1179.53955" z="42.12794" />
+ 	<entitiesExtentsMax x="2404.175" y="-1124.9386" z="65.71318" />
+	<entities>
+	<Item type="CEntityDef">
+			<archetypeName>p_doornbd39bx</archetypeName>
+			<flags value="1572897"/>
+			<position x="2373.224121" y="-1163.739990" z="46.404926"/>
+			<rotation w="0.707107" x="-0.000000" y="0.000000" z="0.707107"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+			<extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_doornbd39bx</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_doornbd39bx</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>sd-villa-frontdoor1</Id>
+                </Item>
+        </extensions>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_door11x_beecher</archetypeName>
+			<flags value="1572897"/>
+			<position x="2368.706055" y="-1171.445068" z="51.599998"/>
+			<rotation w="0.707107" x="0.000000" y="-0.000000" z="-0.707107"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+			<extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_door11x_beecher</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_door11x_beecher</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>sd-villa-roomdoor2</Id>
+                </Item>
+        </extensions>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_doornbd39bx</archetypeName>
+			<flags value="1572897"/>
+			<position x="2373.224121" y="-1165.939941" z="46.404926"/>
+			<rotation w="0.707107" x="0.000000" y="-0.000000" z="-0.707107"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+			<extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_doornbd39bx</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_doornbd39bx</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>sd-villa-frontdoor2</Id>
+                </Item>
+        </extensions>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_door11x_beecher</archetypeName>
+			<flags value="1572897"/>
+			<position x="2364.014893" y="-1170.277954" z="51.594448"/>
+			<rotation w="0.707107" x="-0.000000" y="0.000000" z="0.707107"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+			<extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_door11x_beecher</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_door11x_beecher</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>sd-villa-roomdoor1</Id>
+                </Item>
+        </extensions>
+		</Item>
+	<Item type="CEntityDef">
+			<archetypeName>p_door11x_beecher</archetypeName>
+			<flags value="1572897"/>
+			<position x="2362.870850" y="-1160.952759" z="51.597801"/>
+			<rotation w="0.707107" x="0.000000" y="-0.000000" z="-0.707107"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+			<extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_door11x_beecher</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_door11x_beecher</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>sd-villa-roomdoor3</Id>
+                </Item>
+        </extensions>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_doorfrench01l</archetypeName>
+			<flags value="1572897"/>
+			<position x="2373.459961" y="-1164.170044" z="52.400002"/>
+			<rotation w="0.707107" x="-0.000000" y="0.000000" z="0.707107"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		<extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_doorfrench01l</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_doorfrench01l</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>villa1-door-balkon1</Id>
+                </Item>
+        </extensions>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_doorfrench01r</archetypeName>
+			<flags value="1572897"/>
+			<position x="2373.469971" y="-1165.530029" z="52.400002"/>
+			<rotation w="0.707107" x="-0.000000" y="0.000000" z="0.707107"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="50"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		<extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_doorfrench01r</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_doorfrench01r</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>villa1-door-balkon2</Id>
+                </Item>
+        </extensions>
+		</Item>
+	</entities>
+</CMapData>

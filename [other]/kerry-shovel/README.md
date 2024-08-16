@@ -1,0 +1,2 @@
+- youtube : https://youtu.be/0XEwckux00I
+- discord : nk.kerry

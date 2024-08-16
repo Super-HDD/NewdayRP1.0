@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.457947" y="-0.381973028" z="-0.4428711" />
+      <bbMax x="0.4662655" y="0.380165726" z="0.4428711" />
+      <bsCentre x="0.004159257" y="-0.0009036511" z="0" />
+      <bsRadius value="0.744909942" />
+      <hdTextureDist value="60.0"/>
+      <name>xray_battery01</name>
+      <textureDictionary>xray_battery01</textureDictionary>
+      <physicsDictionary>xray_battery01</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>xray_battery01</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>xray_battery01</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

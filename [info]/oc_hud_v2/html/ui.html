@@ -1,0 +1,914 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700,900&display=swap" id="font">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" href="assets/css/style.css">
+		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min2.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Baloo+Bhaina+2&amp;display=swap">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans">
+		<link rel="stylesheet" href="assetsnew/fonts/fontawesome-all.min.css">
+		<link rel="stylesheet" href="assetsnew/fonts/font-awesome.min.css">
+		<link rel="stylesheet" href="assetsnew/fonts/fontawesome5-overrides.min.css">
+		<link rel="stylesheet" href="assetsnew/css/accordion.css">
+		<link rel="stylesheet" href="assetsnew/css/Colorpicker.css">
+		<link rel="stylesheet" href="assetsnew/css/Layout.css">
+		<link rel="stylesheet" href="assetsnew/css/Sidebar.css">
+		<link rel="stylesheet" href="assetsnew/css/Switch.css">
+		<style>
+			#cinematic,#setting
+			{
+				display: none;
+			}
+
+			/* width */
+			::-webkit-scrollbar {
+				width: 10px;
+			}
+
+			/* Track */
+			::-webkit-scrollbar-track {
+				background: rgb(33, 37, 41);
+			}
+
+			/* Handle */
+			::-webkit-scrollbar-thumb {
+				background: rgb(207, 207, 207);
+				margin-top: 2px;
+			}
+
+			/* Handle on hover */
+			::-webkit-scrollbar-thumb:hover {
+				background: rgb(23, 23, 23);
+			}
+
+	
+.street{
+background: linear-gradient(-90deg, rgba(34,34,34,0.88) 34%, #00000000 80%);
+color:white;
+position: absolute;
+bottom: 17.3%;left: 5.3%;
+width: 200px;
+height: 20px;
+}
+.zone{
+background: linear-gradient(83deg, rgba(34,34,34,0.88) 34%, #00000000 80%);
+color:#14ffdc;
+position: absolute;
+bottom: 28px;left: 1.5%;
+width: 250px;
+height: 20px;
+}
+.direction{
+height: 20px;background: linear-gradient(83deg, rgba(34,34,34,0.88) 34%, #00000000 80%);
+color:white;
+position: absolute;
+bottom: 17.3%;left: 1.5%;width: 75px;
+font-size:16px!important;
+}
+
+.speedometer{
+position: absolute;
+bottom: 0;
+left: 2.15%;
+background: linear-gradient(83deg, rgba(34,34,34,0.88) 34%, #00000000 80%);
+width: auto;height: 30px;
+}
+.speed-text{
+color: #FFF;
+font-size: 22px;
+margin-bottom: 0px;
+margin-right: 4px;
+}
+.speed-text-2{
+color:#FFF;
+font-size: 11px;
+margin-bottom: 0px;
+}
+
+
+.barprogress{
+background:rgba(23,23,23,0.7);
+bottom:0;
+width: 130px;
+box-shadow: 0px 0px 6px;height: 24px;
+border-top-left-radius: 4px;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+border-bottom-left-radius: 4px;
+margin-bottom: 0px;
+}
+
+.inprogressbar{
+width: 102px;
+margin-top: -1px;height: 20px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 4px;
+border-width: 1px;border-style: solid;
+border-top-right-radius: 4px;
+background: rgba(233,236,239,0.2);
+}
+
+.iclassprogressbar{
+color: var(--bs-light);
+margin-left: -8px;
+margin-bottom: 0px;
+margin-top: 1px
+}
+
+.rowbar{
+width: 175px;
+padding-top: 3px;
+}
+
+.colbar{
+width: 20px;
+min-width: 20px;
+max-width: 20px;
+height: 20px;
+margin-right: 0px;
+margin-left: 2px
+}
+
+.colbar2{
+height: 20px;
+padding-right: 0px;
+padding-left: 0px;
+box-shadow: 0px 0px;
+max-width: 350px;
+}
+
+.jobcontainer{
+border-radius: 4px;
+height: 25px;
+width: auto;
+max-width: auto;
+min-width: auto;
+background:rgba(23,23,23,0.7);
+border-right: 1px solid rgba(255,255,255,0.07)
+}
+
+.infocontainer{
+margin-left: 4px;
+ border-radius: 4px;
+ height: 25px;
+ width: auto;
+ max-width: auto;
+ min-width: auto;
+ background:rgba(23,23,23,0.7);
+ border-right: 1px solid rgba(255,255,255,0.07);
+}
+
+.infotopbar{
+top:0!important;
+width: auto;
+margin: 0px;
+height: 28px;
+color: rgb(255,255,255);
+}
+
+.colbar2{
+height: 20px;
+padding-right: 0px;
+padding-left: 0px;
+box-shadow: 0px 0px;
+max-width: 350px;
+}
+
+.colbar2{
+height: 20px;
+padding-right: 0px;
+padding-left: 0px;
+box-shadow: 0px 0px;
+max-width: 350px;
+}
+
+.colbar2{
+height: 20px;
+padding-right: 0px;
+padding-left: 0px;
+box-shadow: 0px 0px;
+max-width: 350px;
+}
+
+		</style>
+		
+
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.2.20171210/classList.min.js"></script>	
+		<script type="text/javascript" src="js/loading-bar.js"></script>
+		<script src="https://use.fontawesome.com/f91c6d4bea.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		<script type="text/javascript" src="./js/jquery.wheelcolorpicker.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/cferdinandi/saferInnerHTML@1/dist/saferInnerHTML.polyfills.min.js"></script>
+		<script src="https://kit.fontawesome.com/0aadc9efcb.js" crossorigin="anonymous"></script>
+	</head>
+	<script>
+if (screen.width>=1024) {document.write("<style>body{zoom:30%;}</style>")}
+if (screen.width>=1360) {document.write("<style>body{zoom:70%;}</style>")}
+if (screen.width>=1920) {document.write("<style>body{zoom:100%;}</style>")}
+if (screen.width>=2048) {document.write("<style>body{zoom:130%;}</style>")}
+if (screen.width>=3840) {document.write("<style>body{zoom:160%;}</style>")}
+</script>
+<script>
+jQuery(document).ready(function(){
+    jQuery('#cinematic2-switch').on('click', function(event) {        
+         jQuery('#cinematic2').toggle('show');
+		 jQuery('#ui2').toggle('hide');		 
+    });
+});
+	</script>
+	<body id="ui" class="ui" style="background:transparent; overflow: hidden;position: static;">
+		<div style="display: none;" id="cinematic2">
+<div class="top" id="top"></div>
+<div class="bottom" id="bottom"></div>
+</div>
+	
+<div  id="ui2" > 
+
+							<div  id="micro" style="position:absolute; bottom:6%; right:3%">
+			<div class="save14" id="voice" style="z-index:99;" >
+				<div  id="box">
+					<i class="fas fa-microphone fa-lg"></i>
+				</div>
+			</div>
+		</div>
+
+
+		
+		
+
+		<div id="logo" class="save15 containerlogo" style="z-index:99;width: 64px; height: 64px;">
+			<img src="assets/img/logo.png"></img>
+		</div>
+
+
+
+		
+		<!--  INFORMATION -->
+		<div style="z-index: 98" class="main2 save17" id="main2">
+			<div class="infotopbar">
+				<div class="row" style="height: 25px;width: auto;">
+					<div id="job" class="save7 jobcontainer">
+						<i class="fa fa-suitcase"></i>
+						<p class="job-text d-inline">Job</p>
+					</div>
+					<div id="iddiv" class="save8 infocontainer" >
+						<i class="fas fa-user"></i>
+						<p id="id" class="d-inline"></p>
+					</div>
+					<div id="bankdiv" class="save9 infocontainer">
+						<i class="fa fa-bank" style="color: rgb(169,120,63)"></i>
+						<p id="bank" class="commas d-inline">0</p>
+					</div>
+					<div id="walletdiv" class="save10 infocontainer" >
+						<i class="fa fa-dollar" style="color: var(--bs-success);"></i>
+						<p id="wallet" class="commas d-inline">0</p>
+					</div>
+					<div id="societydiv" class="save11 infocontainer">
+						<i class="fa fa-balance-scale" style="color: rgb(100,170,193);"></i>
+						<p id="society" class="d-inline">0</p>
+					</div>
+					<div id="blackMoneydiv" class="save12 infocontainer">
+						<i class="fa fa-user-secret" style="color: rgb(96,96,96);"></i>
+						<p id="blackMoney" class="d-inline" style="height: auto;">0</p>
+					</div>
+					<div id="timediv" class="save13 time infocontainer">
+						<i class="fas fa-clock"></i>
+						<p id="time" class="d-inline" style="height: auto;"></p>
+					</div>
+					<!-- invblock is a fix, do not delete it. -->
+					<div id="invblock" class="invblock" style="margin-left: 4px; ">
+						</i>
+						<p class="d-inline" style="height: auto;"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--  STATUS -->
+		
+	
+
+		
+		
+	<!--  street e speedo -->	
+<div id="streetinfo" class="save20">
+<div id="streetdiv" class="zone">
+<small style="opacity: 0.5;margin-left:10px;" id="zone"></small>
+</div>
+<div class="street text-end">
+<small style="opacity: 0.5;margin-right:10px;" id="street"></small>
+</div>
+<div class="direction">
+<small style=" opacity: 0.5;margin-left:10px;"id="direction"></small>
+</div>
+</div>	
+
+
+
+<div id="speedodiv" class="speedometersave" >
+<div id="Speedometer" class="row speedometer">
+<div  class="col d-flex justify-content-start align-items-center" style="height: 30px;">
+<h1 id="Speed" class="speed-text">0</h1>
+<h1 class="speed-text-2">KM/h</h1>
+</div>
+</div>
+</div>
+
+		
+
+		
+	<div   id="circle-bars" class="circlesave1" style="z-index:100;top:76%;left:2%;width:250px; position:absolute;">
+  
+      <div id="Healthcircle" style="z-index:9999;" class="BaseCircle save1">
+        <i id="hp-icon" style="color: white; position: absolute;font-size: 1.6vh;left: 1.25vh;bottom: 1.1vh;" class="fa fa-heartbeat"></i>
+      </div>
+      <div id="Armorcircle" style="z-index:9999;" class="BaseCircle save2">
+        <i style="color: white; position: absolute;font-size: 1.6vh;left: 1.25vh;bottom: 1.1vh;" class="fa fa-shield"></i>
+      </div>
+      <div id="Hungercircle" style="z-index:9999;" class="BaseCircle save3">
+        <i style="color: white; position: absolute;font-size: 1.6vh;left: 1.15vh;bottom: 1.2vh;" class="fa fa-hamburger"></i>
+      </div>
+      <div id="Thirstcircle" style="z-index:9999;" class="BaseCircle save4">
+        <i style="color: white; position: absolute;font-size: 1.6vh;left: 1.25vh;bottom: 1.1vh;" class="fas fa-glass-whiskey"></i>
+      </div>
+
+      <div id="Oxygencircle"  style="z-index:9999;" class="BaseCircle save6">
+        <i style="color: white; position: absolute;font-size: 1.6vh;left: 1.15vh;bottom: 1.1vh;" class="fa fa-water"></i>
+      </div>  
+	  
+	  
+    </div>   	
+	
+
+
+
+
+		
+		
+
+	</div> 
+	<div  id="uisetting" class="uisetting" > 
+	
+	
+	
+		<!--  SETTINGS -->
+		<div id="setting" class="wrapper">
+			<div class="main-leftsidebar-div" data-component="leftsidebar">
+				<div class="leftsidebar">
+					<ul class="nav list-group flex-column d-inline-block first-menu scrollbar-indigo thin first-main-menu" style="background: rgb(33,37,41);color: rgb(255,255,255);border-top-left-radius: 0px;border-bottom-left-radius: 0px;">
+						<li class="nav-item list-group-item ps-1 py-2 accordion-button collapsed" type="button" data-bs-target="#setting-page" data-bs-toggle="collapse">
+							<a class="nav-link d-flex align-items-center" href="#" style="color: rgb(255,255,255);">
+								<i class="fa fa-gear" style="font-size: 27px;margin-right: 10px;margin-left: -3px;"></i>
+								<span class="ml-2 align-middle" href="#">HUD设置</span>
+							</a>
+							<ul class="nav list-group flex-column d-inline-block submenu"></ul>
+						</li>
+						<li class="nav-item list-group-item ps-1 py-2 accordion-button collapsed" id="reset-position" type="button">
+							<a class="nav-link d-flex align-items-center" href="#" style="color: rgb(255,255,255);">
+								<i class="fa fa-refresh" style="font-size: 27px;margin-right: 10px;margin-left: -3px;"></i>
+								<span class="ml-2 align-middle" href="#">重置</span>
+							</a>
+							<ul class="nav list-group flex-column d-inline-block submenu"></ul>
+						</li>
+						<li class="nav-item list-group-item ps-1 py-2 accordion-button collapsed" id="close" type="button" data-bs-toggle="collapse">
+							<a class="nav-link d-flex align-items-center" href="#" style="color: rgb(255,255,255);">
+								<i class="fa fa-minus-circle" style="font-size: 27px;margin-right: 10px;margin-left: -3px;"></i>
+								<span class="ml-2 align-middle" href="#">关闭</span>
+							</a>
+							<ul class="nav list-group flex-column d-inline-block submenu"></ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="float-end main-panel">
+				<div class="container-fluid accordion-collapse collapse" id="setting-page" style="width: auto;margin-top: 150px;margin-left: 100px;">
+					<div class="card" style="font-family: 'Baloo Bhaina 2', serif;background: transparent;box-shadow: 1px 0px 20px 0px rgb(0,0,0);width: 1292px;height: 730px;">
+						<div class="card-header" style="background: rgb(23,23,23);color: rgb(255,255,255);border-bottom-left-radius: 0px;border-bottom-style: solid;">
+							<div class="row">
+								<div class="col-6">
+									<h5 class="d-inline-flex mb-0" style="width: 350px;font-size: 21px;color: rgb(218,218,218);">HUD 设置 </h5>
+									
+									
+
+
+
+
+							
+									
+									
+								</div>
+								<div class="col d-flex justify-content-end align-items-center">
+
+									<button class="btn btn-danger btn-sm" type="button" style="font-size: 12px;font-family: 'Nunito Sans', sans-serif;font-weight: bold;color: rgb(237,237,237);" data-bs-target="#setting-page" data-bs-toggle="collapse">X</button>
+								</div>
+							</div>
+						</div>
+						<div class="card-body" style="background: linear-gradient(0deg, rgb(0,0,0, 0.85) 0%, rgba(0,0,0,0.85) 100%) fixed, url(assetsnew/img/backgroundtest.jpg) center / contain no-repeat fixed;color: var(--bs-light);padding-bottom: 10px;height: 657px;overflow-x: auto; position: relative;">
+							<div class="row d-flex">
+								<div class="col-2 offset-0 d-flex align-items-center" style="margin-left: 30px;">
+									<h4 class="text-secondary d-flex" style="padding-top: 2px;color: rgb(108, 117, 125);">
+										<i class="fa fa-bar-chart" style="font-size: 24px;margin-right: 7px;color: rgb(108,117,125);"></i>状态
+									</h4>
+									
+	
+
+
+									
+									
+													
+
+									
+								</div>
+								<div class="col-2 offset-4">
+									<h4 class="text-secondary d-flex" style="padding-top: 2px;color: rgb(108, 117, 125);">
+										<i class="fa fa-info-circle" style="font-size: 24px;margin-top: 1px;margin-right: 7px;color: rgb(108,117,125);"></i>信息
+									</h4>
+								</div>
+							</div>
+							<div class="row" style="background: rgba(0,0,0,0.3);">
+								<div class="col-1 d-flex align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fa fa-heart d-flex align-items-center" style="margin-right: 5px;color: var(--bs-green);margin-top: -4px;font-size: 16px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">健康状态</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏健康状态 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label   id="health-switch-label" class="switch show-yes">
+										<input id="health-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+									
+
+								</div>
+								<div class="col-1 offset-1 d-flex align-items-center" style="height: 55px;">
+									<i class="fa fa-bank d-flex justify-content-center" style="margin-right: 5px;color: rgb(169,120,63);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">银行资金</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏银行资金 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="bankdiv-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fa fa-shield d-flex align-items-center" style="margin-right: 5px;color: var(--bs-blue);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">盔甲状态</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏盔甲状态 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="armor-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+								<div class="col-1 offset-1 d-flex align-items-center" style="height: 55px;">
+									<i class="fas fa-dollar-sign d-flex justify-content-center" style="margin-right: 5px;color: rgb(56,140,70);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">现金</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏携带现金 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="walletdiv-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div class="row" style="background: rgba(0,0,0,0.3);">
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fa fa-cutlery d-flex justify-content-center" style="margin-right: 5px;color: var(--bs-red);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">饥饿状态</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏饥饿状态 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="hunger-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+								<div class="col-1 offset-1 d-flex align-items-center" style="height: 55px;">
+									<i class="fa fa-balance-scale d-flex justify-content-center" style="margin-right: 5px;color: rgb(100,170,193);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">社会金钱</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏社会金钱 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="societydiv-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fas fa-tint d-flex justify-content-center" style="margin-right: 5px;color: var(--bs-cyan);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">口渴状态</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏口渴状态 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="thirst-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+								<div class="col-1 offset-1 d-flex align-items-center" style="height: 55px;">
+									<i class="fas fa-user-secret d-flex justify-content-center" style="margin-right: 5px;margin-top: -4px;color: rgb(94,94,94);"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">黑钱</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏&nbsp; 黑钱 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="blackMoneydiv-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div class="row" style="background: rgba(0,0,0,0.3);">
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fas fa-running d-flex justify-content-center" style="margin-right: 5px;color: var(--bs-yellow);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">体力</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏体力状态 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="stamina-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+								<div class="col-1 offset-1 d-flex align-items-center" style="height: 55px;">
+									<i class="fas fa-user d-flex justify-content-center" style="margin-right: 5px;margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">玩家ID</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏玩家 ID <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="id-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div class="row" style="background: rgba(0,0,0,0);">
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fas fa-brain d-flex justify-content-center" style="margin-right: 5px;color: var(--bs-white);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 offset-0 text-uppercase d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="margin-left: -45px;">氧气</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="color: rgb(155,158,160);font-size: 14px;">
+										<br>显示\隐藏氧气状态 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="oxygen-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+								<div class="col-1 offset-1 d-flex align-items-center" style="height: 55px;">
+									<i class="fas fa-suitcase d-flex justify-content-center" style="margin-right: 5px;margin-top: -4px;padding-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">职业</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏玩家职业&nbsp; <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="job-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div class="row" style="background: rgba(0,0,0,0.3);">
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fas fa-microphone d-flex justify-content-center" style="margin-right: 5px;color: var(--bs-orange);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 offset-0 text-uppercase d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="margin-left: -45px;">麦克风</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="color: rgb(155,158,160);font-size: 14px;">
+										<br>显示\隐藏麦克风状态 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="microphone-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+								<div class="col-1 offset-1 d-flex align-items-center" style="height: 55px;">
+									<i class="far fa-clock d-flex justify-content-center" style="margin-right: 5px;color: rgb(255,255,255);margin-top: -4px;"></i>
+								</div>
+								<div class="col-1 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">游戏时间</span>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏游戏时间 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-1 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="time-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+							<div class="row d-flex" style="margin-top: 20px;">
+								<div class="col-2 offset-0 d-flex align-items-center" style="margin-left: 30px;">
+									<h4 class="text-secondary d-flex" style="padding-top: 2px;color: rgb(108, 117, 125);">
+										<i class="fas fa-tv" style="font-size: 24px;margin-right: 7px;color: rgb(108,117,125);"></i>其他
+									</h4>
+								</div>
+								<div class="col-4 offset-4">
+									<h4 class="text-secondary d-flex" style="padding-top: 2px;color: rgb(108, 117, 125);">
+										<i class="fas fa-paint-brush" style="font-size: 24px;margin-top: 1px;margin-right: 7px;color: rgb(108,117,125);"></i>HUD定制
+									</h4>
+								</div>
+							</div>
+
+							<div class="row" style="width: 632px;">
+								<div class="col-2 d-flex align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fa fa-video-camera d-flex align-items-center" style="margin-right: 5px;color: var(--bs-indigo);margin-top: -4px;font-size: 16px;"></i>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">电影模式</span>
+								</div>
+								<div class="col-4 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>开\关电影模式 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-2 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="cinematic2-switch" type="checkbox" >
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+
+							<div class="row" style="width: 632px;background: rgba(0,0,0,0.3);">
+								<div class="col-2 d-flex align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="far fa-times-circle d-flex align-items-center" style="margin-right: 5px;color: var(--bs-red);margin-top: -4px;font-size: 16px;"></i>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">logo</span>
+								</div>
+								<div class="col-4 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏服务器logo <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-2 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="logo-switch" type="checkbox" checked>
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>
+
+							
+
+							
+							
+							<div class="row" style="width: 632px;">
+								<div class="col-2 d-flex align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fa fa-map-signs d-flex align-items-center" style="margin-right: 5px;color: white;margin-top: -4px;font-size: 16px;"></i>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">街道信息</span>
+								</div>
+								<div class="col-4 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏街道信息 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-2 offset-0 d-flex justify-content-end align-items-center">
+									<label class="switch">
+										<input id="streetinfo-switch" type="checkbox" checked="true">
+										<span class="slider round"></span>
+									</label>
+								</div>
+							</div>					
+
+														
+							
+							<div class="row" style="width: 632px;">
+								<div class="col-2 d-flex align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fas fa-globe-americas d-flex align-items-center" style="color:rgb(121,190,255);margin-right: 5px;margin-top: -4px;font-size: 16px;"></i>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">小地图</span>
+								</div>
+								<div class="col-4 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏小地图的默认键 <br>
+										<br>
+									</span>
+							</div>
+
+
+								<div class="col-2 offset-0 d-flex justify-content-end align-items-center">
+<h1 class="d-xl-flex justify-content-xl-center align-items-xl-center" style="margin-right:-15px;width: 25px;background: #282828;border-radius: 4px;font-size: 11px;height: 25px;color: rgb(150,150,150);box-shadow: 0px 0px 10px rgb(0,0,0);border: 2px solid rgb(52,52,52);font-family: arial;">M</h1> 
+<h1 class="d-xl-flex justify-content-xl-center align-items-xl-center" style="margin-left:20px;width: 25px;background: #282828;border-radius: 4px;font-size: 11px;height: 25px;color: rgb(150,150,150);box-shadow: 0px 0px 10px rgb(0,0,0);border: 2px solid rgb(52,52,52);font-family: arial;">N</h1>
+								</div>
+							</div>
+							
+						<div class="row" style="background: rgba(0,0,0,0.3);width: 632px;">
+								<div class="col-2 d-flex align-items-center" style="height: 55px;margin-left: 30px;">
+									<i class="fa fa-eye d-flex align-items-center" style="margin-right: 5px;margin-top: -4px;font-size: 16px;"></i>
+								</div>
+								<div class="col-2 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span class="text-uppercase" style="margin-left: -45px;font-family: 'Baloo Bhaina 2', serif;">Hud</span>
+								</div>
+								<div class="col-4 d-flex justify-content-start align-items-center" style="height: 55px;">
+									<span style="font-size: 14px;font-family: 'Baloo Bhaina 2', serif;color: rgb(155,158,160);">
+										<br>显示\隐藏 hud 的默认键 <br>
+										<br>
+									</span>
+								</div>
+								<div class="col-2 offset-0 d-flex justify-content-end align-items-center">
+<div class="text-center" style="color: rgb(191,191,191);height: 30px;width: 30px;background: #282828;border-radius: 4px;border: 2px solid rgb(52,52,52);box-shadow: 0px 0px 10px rgb(0,0,0);">
+    <h1 class="d-xl-flex" style="width: 25px;font-size: 7px;height: 25px;color: rgb(150,150,150);font-family: arial;text-align: left;border-style: none;border-color: rgb(52,52,52);margin-left: 3px;margin-top: 3px;">PAGE<br />UP</h1>
+</div>
+
+<div class="text-center" style="margin-left: 5px;color: rgb(191,191,191);height: 30px;width: 30px;background: #282828;border-radius: 4px;border: 2px solid rgb(52,52,52);box-shadow: 0px 0px 10px rgb(0,0,0);">
+    <h1 class="d-xl-flex" style="width: 25px;font-size: 7px;height: 25px;color: rgb(150,150,150);font-family: arial;text-align: left;border-style: none;border-color: rgb(52,52,52);margin-left: 3px;margin-top: 3px;">PAGE<br />DOWN</h1>
+</div>
+
+								</div>
+							</div>
+							<small style="font-size: 12px;color: rgb(108,117,125);margin-left:40px;margin-top:15px;">注意：您可以更改 GTA 暂停菜单上的按键绑定首选项</small>
+							
+							<div class="row d-flex justify-content-start align-items-center" style="margin-left: 55%;height: 118px;width: 561px;margin-top: -310px;">
+							<h5 style="font-size: 15px;color: rgb(108,117,125);font-weight: bold;margin-top:-20px;"> 更改 HUD 颜色</h5>
+								<div class="col-4 d-inline-flex d-flex ">
+
+									<div class="row" style=" border-bottom: 0px solid rgba(248,249,250,0.16) ;">
+										<div style="margin-top: -20px;"class="col">
+											<input style="width: 120px;height: 30px" id="color-block" class="color-block " type="color"  data-wheelcolorpicker="" data-wcp-format="css" />
+										</div>
+									</div>
+
+								</div>
+
+								
+									
+										<select id="selection" class="border rounded-0 d-flex" style="max-width: 220px;height: 30px;background: rgb(33,33,33);border-style: none;color: rgb(139,139,139);text-align: center;">
+											
+											<optgroup  label="Circle hud ">
+												<option class="options" value="Healthcircle-option">健康</option>
+												<option class="options" value="Armorcircle-option">盔甲</option>
+												<option class="options" value="Hungercircle-option">饥饿</option>
+												<option class="options" value="Thirstcircle-option">口渴</option>
+												<option class="options" value="Oxygencircle-option">氧气</option>
+											</optgroup>
+										</select>
+									
+								
+								<button class="btn btn-danger btn-sm d-flex" id="reset-color" type="button" style="margin-left: 12px;max-width: 400px;font-size: 12px;margin-top: 5px;color: rgb(237,237,237);height:25px;">重置所有颜色</button>
+
+							<div style="margin-top:25px;">
+							<h1 style="font-size: 15px;color: rgb(108,117,125);font-weight: bold;top: 20px;"> 隐藏/开启状态HUD</h1> 
+						<button class="btn btn-primary btn-sm d-flex" id="changehudstyle-switch" type="button" style="font-size: 12px;margin-top: 10px;color: rgb(237,237,237);width:400px; height:25px;">隐藏状态HUD</button>
+						
+					<div style="margin-top:10px;"><small style="font-size: 12px;color: rgb(108,117,125);bottom: 20px;">.</small> </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			
+			
+			
+		</div>
+		
+
+
+
+
+		</div> 
+		
+				
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/progressbar.js/1.1.0/progressbar.min.js" integrity="sha512-EZhmSl/hiKyEHklogkakFnSYa5mWsLmTC4ZfvVzhqYNLPbXKAXsjUYRf2O9OlzQN33H0xBVfGSEIUeqt9astHQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="js/loading-bar.js"></script>
+		<script type="text/javascript" src="js/scriptnew.js"></script>
+		<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+		<script src="assets/js/Accordion-with-custom-design.js"></script>
+		<script src="assetsnew/bootstrap/js/bootstrap.min.js"></script>
+		<script src="assetsnew/js/bs-init.js"></script>
+		<script src="assetsnew/js/custom.js"></script>
+	</body>
+</html>

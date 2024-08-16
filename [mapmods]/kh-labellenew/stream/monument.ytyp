@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="500"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.409217" y="-3.1319041" z="-0.9627592" />
+      <bbMax x="2.4092133" y="1.6865273" z="5.426706" />
+      <bsCentre x="-1.7881393e-06" y="-0.72268844" z="2.2319734" />
+      <bsRadius value="4.670648" />
+      <hdTextureDist value="60.0"/>
+      <name>monument</name>
+      <textureDictionary>monument</textureDictionary>
+      <physicsDictionary>monument</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>monument</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>monument</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

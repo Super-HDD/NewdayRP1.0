@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-783.602753" y="-1477.027588" z="-360.502773"/>
+	<streamingExtentsMax x="24.993866" y="-663.576294" z="448.119049"/>
+	<entitiesExtentsMin x="-383.602753" y="-1077.027588" z="39.497227"/>
+	<entitiesExtentsMax x="-375.006134" y="-1063.576294" z="48.119049"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>p_win_blabarbershop_01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-376.360596" y="-1066.791016" z="47.173122"/>
+			<rotation w="0.918324" x="-0.000000" y="0.000000" z="0.395829"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_win_blabarbershop_01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-382.194244" y="-1064.742065" z="48.119049"/>
+			<rotation w="0.915181" x="0.000000" y="-0.000000" z="-0.403044"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>casaalta</archetypeName>
+			<flags value="1572897"/>
+			<position x="-375.006134" y="-1067.779053" z="39.497227"/>
+			<rotation w="0.394194" x="-0.000000" y="0.000000" z="0.919027"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_beechers_ladder01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-382.017944" y="-1063.825073" z="41.235943"/>
+			<rotation w="0.380028" x="0.023243" y="-0.056451" z="0.922958"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_door02x</archetypeName>
+			<flags value="1572865"/>
+			<position x="-382.783112" y="-1072.684814" z="43.643234"/>
+			<rotation w="0.924589" x="-0.000000" y="0.000000" z="0.380966"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+            <extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_door02x</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_door02x</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>balcony</Id>
+                </Item>
+        </extensions>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_boatsm02x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-383.602753" y="-1067.868164" z="40.282719"/>
+			<rotation w="0.757170" x="-0.000000" y="0.000000" z="0.653218"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_boatsm02x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-380.358765" y="-1077.027588" z="40.244747"/>
+			<rotation w="0.982896" x="0.182085" y="0.026356" z="-0.008101"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_door02x</archetypeName>
+			<flags value="1572865"/>
+			<position x="-381.389832" y="-1063.576294" z="42.595757"/>
+			<rotation w="0.399969" x="-0.000000" y="0.000000" z="0.916529"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+            <extensions>
+                <Item type="CExtensionDefDoor">
+                <name>p_door02x</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <ELUGHoA_0xDAF8214E value="false" />
+                <enableLimitAngle value="true" />
+                <EFwMwAA_0x091A42D0 value="false" />
+                <startsLocked value="false" />
+                <canBreak value="false" />
+                <PkpciBA_0xA37CAB71 value="false" />
+                <dKbmTLA_0xCFE37BDB value="1.470796" />
+                <nuskEbA_0xA0CF3C8D value="1.470796" />
+                <RbUnQLA_0x9C555ECF value="0" />
+                <OPkNlHA_0xBCA0289E value="0" />
+                <doorTargetRatio value="0" />
+                <audioHash>ismdclsa_0x725d11b6</audioHash>
+                <doorTags>
+                    <Item />
+                    <Item />
+                    <Item />
+                    <Item />
+                </doorTags>
+                </Item>
+                <Item type="SSxlGTA_0xDB12012B">
+                <name>p_door02x</name>
+                <offsetPosition x="0" y="0" z="0" />
+                <Id>floatentrance</Id>
+                </Item>
+        </extensions>
+		</Item>
+	</entities>
+</CMapData>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta
+        charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0">
+    <title>电报信件</title>
+    <link
+        rel="stylesheet"
+        href="style.css">
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous">
+    <script
+        src="jquery.min.js">
+    </script>
+</head>
+
+<body>
+    <div class="inbox">
+        <div class="header">
+           <div><h1 class="postoffice">电报信件</h1></div>
+        </div>
+        <div class="inboxContainer">
+            <ul id="inboxList"></ul>
+        </div>
+        <button class="btn closePostoffice">关闭电报信件</button>
+    </div>
+
+    <div class="view">
+        <a href="#" class="close_view">X</a>
+        <div class="telegram_header">
+            <div class="telegram_info">
+                <div>
+                    <b>发件人:</b> <span id="view_sendername"></span>
+                </div>
+                <div>
+                    <b>接受者:</b> <span id="view_recipient"></span>
+                </div>
+                <div>
+                    <b>日期:</b> <span id="view_date"></span>
+                </div>
+                <div>
+                    <b>邮编:</b> <span id="view_sender"></span>
+                </div>
+            </div>
+        </div>
+        <div class="telegram_subject">
+            <b>主题:</b> <span id="view_subject"></span>
+        </div>
+        <br>
+        <div class="telegram_message"> 
+            <b>信息:</b> <span id="view_message"></span>
+        </div>
+        <br>
+        <div class="telegram_footer">
+            <button class="telegram_delete_button">删除</button>
+        </div>
+    </div>
+
+    <script
+        src="script.js">
+    </script>
+</body>
+</html>

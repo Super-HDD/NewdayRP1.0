@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="500"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-19.783152" y="-7.181309" z="-1.4429983e-05" />
+      <bbMax x="12.561737" y="3.522958" z="9.630061" />
+      <bsCentre x="-3.6107073" y="-1.8291756" z="4.8150234" />
+      <bsRadius value="17.70248" />
+      <hdTextureDist value="60.0"/>
+      <name>hotel</name>
+      <textureDictionary>hotel</textureDictionary>
+      <physicsDictionary>hotel</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>hotel</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>hotel</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

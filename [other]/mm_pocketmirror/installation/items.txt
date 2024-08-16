@@ -1,0 +1,1 @@
+['pocketmirror'] 			= {['name'] = 'pocketmirror', 			['label'] = 'Pocket Mirror',            	['weight'] = 650,     ['type'] = 'item',      ['image'] = 'provision_mollys_pocket_mirror.png',         	['unique'] = true,     ['useable'] = true,     ['shouldClose'] = false,     ['combinable'] = nil,   ['description'] = ''},

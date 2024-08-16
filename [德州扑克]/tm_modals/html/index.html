@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>T M _ M O D A L S</title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+        <meta name="author" content="By @turbomodus">
+		<meta name="description" content="dialog boxes">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    </head>
+    <body>
+        <!-- MODAL BOX -->
+        <div id="modal-wrapper" class="modal-wrapper">
+            <div class="modal-container">
+                <div class="modal-header">
+                    <h1 id="modal-title">~</h1>
+                </div>
+                <div class="modal-body">
+                    <div class="modal-body-inner">
+                        <div id="modal-icon"></div>
+                        <div id="modal-desc"></div>
+                        <div id="modal-content">
+                            <input type="text" id="result" maxlength="150" class="modal-input-field"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <div class="modal-footer-inner">
+                        <ul>
+                            <li id="modal-cancel"></li>
+                            <li id="modal-accept"></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="nui://game/ui/jquery.js" type="text/javascript"></script> 
+        <script src="./modal.js" type="text/javascript"></script>
+    </body>
+</html>

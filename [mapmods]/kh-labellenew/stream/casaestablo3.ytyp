@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="1000"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-3.382283" y="-0.7891083" z="-0.0005376935" />
+      <bbMax x="3.4088364" y="9.727272" z="6.058058" />
+      <bsCentre x="0.013276696" y="4.469082" z="3.02876" />
+      <bsRadius value="6.9537783" />
+      <hdTextureDist value="60.0"/>
+      <name>casaestablo3</name>
+      <textureDictionary>casaestablo3</textureDictionary>
+      <physicsDictionary>casaestablo3</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>casaestablo3</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>casaestablo3</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

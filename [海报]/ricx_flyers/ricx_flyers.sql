@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `ricx_flyers` (
+  `id` int(7) NOT NULL AUTO_INCREMENT,
+  `data` longtext NOT NULL DEFAULT '{}',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 CHARSET=utf8mb4;

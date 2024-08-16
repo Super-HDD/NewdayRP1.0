@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name>mlo_eme_01__interior_eme_genstore_int_milo_</name>
+ <parent>mlo_eme_01_</parent>
+ <flags value="1" />
+ <contentFlags value="73" />
+ <streamingExtentsMin x="1120.00012" y="78" z="-209" />
+ <streamingExtentsMax x="1720.00012" y="678" z="391" />
+ <entitiesExtentsMin x="1415.8053" y="373.629944" z="88.9359741" />
+ <entitiesExtentsMax x="1424.44666" y="385.770264" z="94.17547" />
+ <entities>
+  <Item type="CMloInstanceDef">
+   <archetypeName>eme_genstore_int</archetypeName>
+   <flags value="1572872" />
+   <id value="0x4D2112896739CB03" />
+   <position x="1420.00012" y="378" z="91.00001" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="23" />
+   <lodDist value="85" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+   <groupId>IG_ID_NONE</groupId>
+   <floorId value="0" />
+   <defaultEntitySets />
+   <numExitPortals value="6" />
+   <MLOInstflags value="8" />
+   <azxAZNA_0x15810E7F value="300" />
+  </Item>
+ </entities>
+ <containerLods />
+ <boxOccluders />
+ <occludeModels />
+ <physicsDictionaries>
+  <Item>eme_genstore_int</Item>
+ </physicsDictionaries>
+ <instancedData type="rage__fwInstancedMapData">
+  <ImapLink />
+  <PropInstanceList />
+  <GrassInstanceList />
+ </instancedData>
+ <timeCycleModifiers />
+ <awOyxCA_0x8471928B />
+ <dakdTAA_0x4D4A0635 />
+ <carGenerators />
+ <LODLightsSOA type="CLODLight">
+  <direction />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+  <XVPnEEA_0xFFD167D6 />
+ </LODLightsSOA>
+ <DistantLODLightsSOA type="CDistantLODLight">
+  <position />
+  <RGB />
+  <intensity />
+  <numStreetLights value="0" />
+  <category value="0" />
+  <powerGridId />
+  <hash />
+ </DistantLODLightsSOA>
+ <block type="CBlockDesc">
+  <version value="0" />
+  <flags value="0" />
+  <name />
+  <exportedBy />
+  <owner />
+  <time />
+ </block>
+</CMapData>

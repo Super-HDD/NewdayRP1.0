@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="1000"/>
+      <flags value="536870912" />
+      <loadFlags value="536870912" />
+      <specialAttribute value="0" />
+      <bbMin x="-3.937413" y="-15.972374" z="-0.15543436" />
+      <bbMax x="11.891387" y="19.019138" z="6.998533" />
+      <bsCentre x="3.976987" y="1.5233822" z="3.4215493" />
+      <bsRadius value="19.532896" />
+      <hdTextureDist value="60.0"/>
+      <name>establo2</name>
+      <textureDictionary>establo2</textureDictionary>
+      <physicsDictionary>establo2</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>establo2</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>establo2</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

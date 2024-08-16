@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name>mlo_eme_01__long_0</name>
+ <parent>mlo_eme_01_</parent>
+ <flags value="1" />
+ <contentFlags value="65" />
+ <streamingExtentsMin x="652.3568" y="-512.4321" z="-698.86145" />
+ <streamingExtentsMax x="2252.686" y="1087.89355" z="910.661865" />
+ <entitiesExtentsMin x="1377.43445" y="257.945923" z="87.02403" />
+ <entitiesExtentsMax x="1470.76746" y="386.30426" z="113.522217" />
+ <entities>
+  <Item type="CEntityDef">
+   <archetypeName>p_cordwood01x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x4F060FDC907664E4" />
+   <position x="1447.10547" y="339.2752" z="87.51657" />
+   <rotation x="-0.003984" y="-0.00405399967" z="-0.700897932" w="0.713238955" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="3" />
+   <lodDist value="165" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4805EACDDB4C9A1E" />
+   <position x="1436.945" y="272.204834" z="91.70491" />
+   <rotation x="0" y="0" z="0.76604414" w="0.642788" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_cordwood01x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x49EBC4943CA68749" />
+   <position x="1439.836" y="263.684448" z="89.36703" />
+   <rotation x="-0.006359001" y="0.007579001" z="0.642756045" w="0.766007066" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="9" />
+   <lodDist value="165" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_cordwood01x</archetypeName>
+   <flags value="1572873" />
+   <id value="0x40EA6F2AABB2D16F" />
+   <position x="1416.19739" y="379.608154" z="88.4096" />
+   <rotation x="-0.0108430032" y="0.0256980062" z="0.128754035" w="0.991284251" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="2" />
+   <lodDist value="165" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_debris07x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x48F55B7E2126FB6E" />
+   <position x="1448.22864" y="360.301453" z="87.6448" />
+   <rotation x="-0.0499710143" y="0.0232540071" z="0.453257143" w="0.8896742" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="10" />
+   <lodDist value="190" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_debris07x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x49B5C59A159CB17A" />
+   <position x="1466.62634" y="305.997955" z="89.029274" />
+   <rotation x="0.0295310039" y="-0.0276400018" z="-0.195055023" w="0.9799579" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="10" />
+   <lodDist value="190" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_debris07x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x40F5BAE1329ADCB6" />
+   <position x="1466.43835" y="323.911133" z="88.80421" />
+   <rotation x="-0.00487900153" y="-0.005503002" z="0.99394536" w="-0.109630041" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="10" />
+   <lodDist value="190" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_debris07x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x405AFE82AEEB285F" />
+   <position x="1416.96716" y="281.7946" z="88.51971" />
+   <rotation x="0.00736499671" y="0.002006999" z="0.132917956" w="0.9910976" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="10" />
+   <lodDist value="190" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_toolshed02x</archetypeName>
+   <flags value="1573120" />
+   <id value="0x41199D2E28ABAA86" />
+   <position x="1469.32141" y="312.936829" z="88.9491348" />
+   <rotation x="0.0330219939" y="0.0218769945" z="-0.00109699974" w="0.99921453" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_outhouse05x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x49B09C35FF899CDA" />
+   <position x="1461.69885" y="292.986267" z="90.70548" />
+   <rotation x="0" y="0" z="0.923879743" w="0.38268292" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="18" />
+   <lodDist value="350" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_toolshed02x</archetypeName>
+   <flags value="1573120" />
+   <id value="0x494F53F948AED9F0" />
+   <position x="1450.97119" y="354.56012" z="87.49278" />
+   <rotation x="-0.0149489986" y="-0.0313959979" z="0.712330937" w="-0.7009819" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_floursackstack02x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x40D8D90BDEA4BB8E" />
+   <position x="1453.08691" y="373.322845" z="87.72592" />
+   <rotation x="0" y="0" z="0.761880159" w="-0.6477182" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_watertower_med_07</archetypeName>
+   <flags value="1572872" />
+   <id value="0x4959FE524B2EF55D" />
+   <position x="1443.91748" y="294.143372" z="93.09843" />
+   <rotation x="0" y="0" z="0.7071068" w="0.707106769" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="40" />
+   <lodDist value="300" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_cedar_log_06x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x4C15F0CAC5BC54BC" />
+   <position x="1392.50671" y="308.355164" z="87.16864" />
+   <rotation x="-0.02711099" y="-0.0136749949" z="0.7588607" w="-0.650544763" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="38" />
+   <lodDist value="165" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_cedar_log_06x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x4BEF70B6B2AF4BAB" />
+   <position x="1442.34827" y="384.8845" z="88.76966" />
+   <rotation x="-0.0174899884" y="-0.0116569931" z="0.882750452" w="-0.469371736" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="38" />
+   <lodDist value="165" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_benchch01x</archetypeName>
+   <flags value="1573120" />
+   <id value="0x4B50B943C430C388" />
+   <position x="1444.34" y="374.4748" z="88.93597" />
+   <rotation x="-0.00262100017" y="-0.0026380003" z="0.7049081" w="0.709288955" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_windmill01x</archetypeName>
+   <flags value="1572872" />
+   <id value="0x4720AC846D3AF35A" />
+   <position x="1451.45251" y="288.942932" z="90.03847" />
+   <rotation x="0" y="0" z="0.9816272" w="0.190809041" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="4" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_windmill_top</archetypeName>
+   <flags value="1572864" />
+   <id value="0x47F04F9228338CAB" />
+   <position x="1452.35681" y="287.893616" z="110.66185" />
+   <rotation x="0" y="0" z="-0.190809041" w="0.981627166" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x44A622A0889EF7C7" />
+   <position x="1431.84766" y="258.063232" z="92.03239" />
+   <rotation x="-0.013622" y="0.012281" z="0.669502" w="0.7425839" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x45B682CA2DE8A71A" />
+   <position x="1429.71143" y="367.534424" z="90.84321" />
+   <rotation x="-0.013622" y="0.012281" z="0.669502" w="0.7425839" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefLightEffect">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances itemType="CLightAttrDef">
+      <Item>
+       <posn>0.0005569458 -0.003068 -0.018544</posn>
+       <colour>255 142 80</colour>
+       <flashiness value="5" />
+       <intensity value="12" />
+       <flags value="4480" />
+       <boneTag value="-4274" />
+       <lightType value="1" />
+       <groupId value="0" />
+       <timeFlags value="15728767" />
+       <falloff value="10" />
+       <falloffExponent value="70" />
+       <cullingPlane>-4.67838E-07 3.688037E-07 1 10</cullingPlane>
+       <cullingPlane1>-4.67838E-07 3.688037E-07 1 10</cullingPlane1>
+       <shadowBlur value="114" />
+       <shadowOpacity value="255" />
+       <padding2 value="0" />
+       <roughnessMod value="0" />
+       <volIntensity value="1" />
+       <volSizeScale value="1" />
+       <volOuterColour>255 255 255</volOuterColour>
+       <lightHash value="119" />
+       <volOuterIntensity value="0" />
+       <injectsIntoVoxels value="True" />
+       <coronaSize value="0" />
+       <volOuterExponent value="1" />
+       <lightFadeDistance value="0" />
+       <shadowFadeDistance value="60" />
+       <specularFadeDistance value="0" />
+       <volumetricFadeDistance value="45" />
+       <shadowNearClip value="0.01" />
+       <jwWnkOA_0x4855CDE5 value="0" />
+       <aVNWOWA_0x0DA3D86E value="0" />
+       <coronaIntensity value="0.5" />
+       <coronaZBias value="0.1" />
+       <jaUgZFA_0x93C52D2C>QuLnBFA_0xFB024B5D</jaUgZFA_0x93C52D2C>
+       <UqAqJIA_0x52A89335 x="0" y="0" z="-0.03" />
+       <emitterSize value="1" />
+       <emitterIntensityMult value="1" />
+       <emitterTintDesaturation value="0.75" />
+       <direction>4.676051E-07 -3.650784E-07 -0.9999999</direction>
+       <tangent>1.312708E-06 1 -3.762543E-07</tangent>
+       <coneInnerAngle value="10" />
+       <coneOuterAngle value="25" />
+       <squareAspectRatio value="1" />
+       <extents>1 0 0</extents>
+       <projectedTextureKey value="3797786715" />
+       <SSAOStrength value="0.5" />
+       <extraFlags value="12800" />
+       <falloffBias value="0.015" />
+       <KEQjKDA_0x3F4C1BB0 value="0" />
+       <xnzMOUA_0x9C23D4E9 value="0" />
+       <wrapAmount value="0" />
+       <nonDirectionality value="0" />
+       <scaleDirectional value="1" />
+       <ciMauyA_0xA968034C value="0" />
+       <zuvBbAA_0x5148E7B3 value="0" />
+       <uanzvAA_0x83161CBE value="True" />
+       <yNonDHA_0xC11AF51B value="0" />
+       <hNLtnOA_0x53A339C3 value="0" />
+       <GQdKoGA_0x0F06E05A value="0" />
+       <kbeoGZA_0x724AE3FF value="1" />
+       <UuQeEIA_0x73D8B6CB value="0.7" />
+       <gvmiqBA_0x2EBE653A value="0" />
+       <JdptERA_0x208D587D value="0" />
+       <zsUuaBA_0x2E0E4E3C value="1" />
+       <VeekdIA_0xB4B05CF2 value="0" />
+       <OBPcFAA_0x0963B563 value="1000000" />
+       <dynamicShadowFadeDistance value="30" />
+       <lightId value="2855003511" />
+       <blendTime value="15" />
+       <offset value="0" />
+       <pwFikYA_0x30ECA388 x="0.000762939453" y="0" z="0.121154785" />
+       <overrideHash value="2710055501" />
+      </Item>
+     </instances>
+     <additionalInstances />
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x42A9DD3B671C6667" />
+   <position x="1422.84326" y="346.240479" z="90.29545" />
+   <rotation x="-0.013622" y="0.012281" z="0.669502" w="0.7425839" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefLightEffect">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances itemType="CLightAttrDef">
+      <Item>
+       <posn>0.0005569458 -0.003068 -0.018544</posn>
+       <colour>255 126 54</colour>
+       <flashiness value="5" />
+       <intensity value="10" />
+       <flags value="4480" />
+       <boneTag value="-4274" />
+       <lightType value="1" />
+       <groupId value="0" />
+       <timeFlags value="15728767" />
+       <falloff value="6" />
+       <falloffExponent value="60" />
+       <cullingPlane>-4.67838E-07 3.688037E-07 1 6</cullingPlane>
+       <cullingPlane1>-4.67838E-07 3.688037E-07 1 6</cullingPlane1>
+       <shadowBlur value="114" />
+       <shadowOpacity value="255" />
+       <padding2 value="0" />
+       <roughnessMod value="0" />
+       <volIntensity value="1" />
+       <volSizeScale value="1" />
+       <volOuterColour>255 255 255</volOuterColour>
+       <lightHash value="119" />
+       <volOuterIntensity value="0" />
+       <injectsIntoVoxels value="True" />
+       <coronaSize value="0" />
+       <volOuterExponent value="1" />
+       <lightFadeDistance value="0" />
+       <shadowFadeDistance value="60" />
+       <specularFadeDistance value="0" />
+       <volumetricFadeDistance value="45" />
+       <shadowNearClip value="0.01" />
+       <jwWnkOA_0x4855CDE5 value="0" />
+       <aVNWOWA_0x0DA3D86E value="0" />
+       <coronaIntensity value="0.5" />
+       <coronaZBias value="0.1" />
+       <jaUgZFA_0x93C52D2C>QuLnBFA_0xFB024B5D</jaUgZFA_0x93C52D2C>
+       <UqAqJIA_0x52A89335 x="0" y="0" z="-0.03" />
+       <emitterSize value="1" />
+       <emitterIntensityMult value="1" />
+       <emitterTintDesaturation value="0.75" />
+       <direction>4.676051E-07 -3.650784E-07 -0.9999999</direction>
+       <tangent>1.312708E-06 1 -3.762543E-07</tangent>
+       <coneInnerAngle value="10" />
+       <coneOuterAngle value="25" />
+       <squareAspectRatio value="1" />
+       <extents>1 0 0</extents>
+       <projectedTextureKey value="3797786715" />
+       <SSAOStrength value="0.5" />
+       <extraFlags value="12800" />
+       <falloffBias value="0.015" />
+       <KEQjKDA_0x3F4C1BB0 value="0" />
+       <xnzMOUA_0x9C23D4E9 value="0" />
+       <wrapAmount value="0" />
+       <nonDirectionality value="0" />
+       <scaleDirectional value="1" />
+       <ciMauyA_0xA968034C value="0" />
+       <zuvBbAA_0x5148E7B3 value="0" />
+       <uanzvAA_0x83161CBE value="True" />
+       <yNonDHA_0xC11AF51B value="0" />
+       <hNLtnOA_0x53A339C3 value="0" />
+       <GQdKoGA_0x0F06E05A value="0" />
+       <kbeoGZA_0x724AE3FF value="1" />
+       <UuQeEIA_0x73D8B6CB value="0.7" />
+       <gvmiqBA_0x2EBE653A value="0" />
+       <JdptERA_0x208D587D value="0" />
+       <zsUuaBA_0x2E0E4E3C value="1" />
+       <VeekdIA_0xB4B05CF2 value="0" />
+       <OBPcFAA_0x0963B563 value="1000000" />
+       <dynamicShadowFadeDistance value="30" />
+       <lightId value="2855003511" />
+       <blendTime value="15" />
+       <offset value="0" />
+       <pwFikYA_0x30ECA388 x="0.0008087158" y="-0.000244140625" z="0.121162415" />
+       <overrideHash value="2710055501" />
+      </Item>
+     </instances>
+     <additionalInstances />
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4FD5BF18CDAB6CB0" />
+   <position x="1415.73975" y="323.216431" z="90.2782059" />
+   <rotation x="0.0132090067" y="-0.01600401" z="0.9995025" w="-0.0237560123" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefLightEffect">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances itemType="CLightAttrDef">
+      <Item>
+       <posn>0.0005569458 -0.003068 -0.018544</posn>
+       <colour>255 126 54</colour>
+       <flashiness value="5" />
+       <intensity value="4" />
+       <flags value="4480" />
+       <boneTag value="-4274" />
+       <lightType value="1" />
+       <groupId value="0" />
+       <timeFlags value="15728767" />
+       <falloff value="7" />
+       <falloffExponent value="30" />
+       <cullingPlane>5.420298E-07 -1.531094E-06 1 7</cullingPlane>
+       <cullingPlane1>5.420298E-07 -1.531094E-06 1 7</cullingPlane1>
+       <shadowBlur value="114" />
+       <shadowOpacity value="255" />
+       <padding2 value="0" />
+       <roughnessMod value="0" />
+       <volIntensity value="1" />
+       <volSizeScale value="1" />
+       <volOuterColour>255 255 255</volOuterColour>
+       <lightHash value="119" />
+       <volOuterIntensity value="0" />
+       <injectsIntoVoxels value="True" />
+       <coronaSize value="0" />
+       <volOuterExponent value="1" />
+       <lightFadeDistance value="0" />
+       <shadowFadeDistance value="60" />
+       <specularFadeDistance value="0" />
+       <volumetricFadeDistance value="45" />
+       <shadowNearClip value="0.01" />
+       <jwWnkOA_0x4855CDE5 value="0" />
+       <aVNWOWA_0x0DA3D86E value="0" />
+       <coronaIntensity value="0.5" />
+       <coronaZBias value="0.1" />
+       <jaUgZFA_0x93C52D2C>QuLnBFA_0xFB024B5D</jaUgZFA_0x93C52D2C>
+       <UqAqJIA_0x52A89335 x="0" y="0" z="-0.03" />
+       <emitterSize value="1" />
+       <emitterIntensityMult value="1" />
+       <emitterTintDesaturation value="0.75" />
+       <direction>-5.420297E-07 1.531094E-06 -0.9999999</direction>
+       <tangent>-1.357985E-07 0.9999997 1.523644E-06</tangent>
+       <coneInnerAngle value="10" />
+       <coneOuterAngle value="25" />
+       <squareAspectRatio value="1" />
+       <extents>1 0 0</extents>
+       <projectedTextureKey value="3797786715" />
+       <SSAOStrength value="0.5" />
+       <extraFlags value="12800" />
+       <falloffBias value="0.015" />
+       <KEQjKDA_0x3F4C1BB0 value="0" />
+       <xnzMOUA_0x9C23D4E9 value="0" />
+       <wrapAmount value="0" />
+       <nonDirectionality value="0" />
+       <scaleDirectional value="1" />
+       <ciMauyA_0xA968034C value="0" />
+       <zuvBbAA_0x5148E7B3 value="0" />
+       <uanzvAA_0x83161CBE value="True" />
+       <yNonDHA_0xC11AF51B value="0" />
+       <hNLtnOA_0x53A339C3 value="0" />
+       <GQdKoGA_0x0F06E05A value="0" />
+       <kbeoGZA_0x724AE3FF value="1" />
+       <UuQeEIA_0x73D8B6CB value="0.7" />
+       <gvmiqBA_0x2EBE653A value="0" />
+       <JdptERA_0x208D587D value="0" />
+       <zsUuaBA_0x2E0E4E3C value="1" />
+       <VeekdIA_0xB4B05CF2 value="0" />
+       <OBPcFAA_0x0963B563 value="1000000" />
+       <dynamicShadowFadeDistance value="30" />
+       <lightId value="2855003511" />
+       <blendTime value="15" />
+       <offset value="0" />
+       <pwFikYA_0x30ECA388 x="0.000610351563" y="0.000122070313" z="0.121154785" />
+       <overrideHash value="2710055501" />
+      </Item>
+     </instances>
+     <additionalInstances />
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x45E0A87D04D2704C" />
+   <position x="1397.79053" y="309.8816" z="90.0611649" />
+   <rotation x="0.0174890067" y="0.0111690043" z="0.144888058" w="0.989230454" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefLightEffect">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances itemType="CLightAttrDef">
+      <Item>
+       <posn>0.0005569458 -0.003068 -0.018544</posn>
+       <colour>255 105 24</colour>
+       <flashiness value="5" />
+       <intensity value="14" />
+       <flags value="4480" />
+       <boneTag value="-4274" />
+       <lightType value="1" />
+       <groupId value="0" />
+       <timeFlags value="15728767" />
+       <falloff value="5" />
+       <falloffExponent value="70" />
+       <cullingPlane>5.457551E-07 -1.825392E-07 1 5</cullingPlane>
+       <cullingPlane1>5.457551E-07 -1.825392E-07 1 5</cullingPlane1>
+       <shadowBlur value="114" />
+       <shadowOpacity value="255" />
+       <padding2 value="0" />
+       <roughnessMod value="0" />
+       <volIntensity value="1" />
+       <volSizeScale value="1" />
+       <volOuterColour>255 255 255</volOuterColour>
+       <lightHash value="119" />
+       <volOuterIntensity value="0" />
+       <injectsIntoVoxels value="True" />
+       <coronaSize value="0" />
+       <volOuterExponent value="1" />
+       <lightFadeDistance value="0" />
+       <shadowFadeDistance value="60" />
+       <specularFadeDistance value="0" />
+       <volumetricFadeDistance value="45" />
+       <shadowNearClip value="0.01" />
+       <jwWnkOA_0x4855CDE5 value="0" />
+       <aVNWOWA_0x0DA3D86E value="0" />
+       <coronaIntensity value="0.5" />
+       <coronaZBias value="0.1" />
+       <jaUgZFA_0x93C52D2C>QuLnBFA_0xFB024B5D</jaUgZFA_0x93C52D2C>
+       <UqAqJIA_0x52A89335 x="0" y="0" z="-0.03" />
+       <emitterSize value="1" />
+       <emitterIntensityMult value="1" />
+       <emitterTintDesaturation value="0.75" />
+       <direction>-5.45755E-07 1.825392E-07 -0.9999999</direction>
+       <tangent>6.738701E-07 1 1.862645E-07</tangent>
+       <coneInnerAngle value="10" />
+       <coneOuterAngle value="25" />
+       <squareAspectRatio value="1" />
+       <extents>1 0 0</extents>
+       <projectedTextureKey value="3797786715" />
+       <SSAOStrength value="0.5" />
+       <extraFlags value="12800" />
+       <falloffBias value="0.015" />
+       <KEQjKDA_0x3F4C1BB0 value="0" />
+       <xnzMOUA_0x9C23D4E9 value="0" />
+       <wrapAmount value="0" />
+       <nonDirectionality value="0" />
+       <scaleDirectional value="1" />
+       <ciMauyA_0xA968034C value="0" />
+       <zuvBbAA_0x5148E7B3 value="0" />
+       <uanzvAA_0x83161CBE value="True" />
+       <yNonDHA_0xC11AF51B value="0" />
+       <hNLtnOA_0x53A339C3 value="0" />
+       <GQdKoGA_0x0F06E05A value="0" />
+       <kbeoGZA_0x724AE3FF value="1" />
+       <UuQeEIA_0x73D8B6CB value="0.7" />
+       <gvmiqBA_0x2EBE653A value="0" />
+       <JdptERA_0x208D587D value="0" />
+       <zsUuaBA_0x2E0E4E3C value="1" />
+       <VeekdIA_0xB4B05CF2 value="0" />
+       <OBPcFAA_0x0963B563 value="1000000" />
+       <dynamicShadowFadeDistance value="30" />
+       <lightId value="2855003511" />
+       <blendTime value="15" />
+       <offset value="0" />
+       <pwFikYA_0x30ECA388 x="0.0007324219" y="0.000122070313" z="0.121154785" />
+       <overrideHash value="2710055501" />
+      </Item>
+     </instances>
+     <additionalInstances />
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x40A0B152736DC23D" />
+   <position x="1448.38916" y="326.471252" z="89.1634" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefLightEffect">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances itemType="CLightAttrDef">
+      <Item>
+       <posn>0.0005569458 -0.003068 -0.018544</posn>
+       <colour>255 128 59</colour>
+       <flashiness value="5" />
+       <intensity value="3" />
+       <flags value="4480" />
+       <boneTag value="-4274" />
+       <lightType value="1" />
+       <groupId value="0" />
+       <timeFlags value="15728767" />
+       <falloff value="6" />
+       <falloffExponent value="50" />
+       <cullingPlane>0 0 1 6</cullingPlane>
+       <cullingPlane1>0 0 1 6</cullingPlane1>
+       <shadowBlur value="114" />
+       <shadowOpacity value="255" />
+       <padding2 value="0" />
+       <roughnessMod value="0" />
+       <volIntensity value="1" />
+       <volSizeScale value="1" />
+       <volOuterColour>255 255 255</volOuterColour>
+       <lightHash value="119" />
+       <volOuterIntensity value="0" />
+       <injectsIntoVoxels value="True" />
+       <coronaSize value="0" />
+       <volOuterExponent value="1" />
+       <lightFadeDistance value="0" />
+       <shadowFadeDistance value="60" />
+       <specularFadeDistance value="0" />
+       <volumetricFadeDistance value="45" />
+       <shadowNearClip value="0.01" />
+       <jwWnkOA_0x4855CDE5 value="0" />
+       <aVNWOWA_0x0DA3D86E value="0" />
+       <coronaIntensity value="0.5" />
+       <coronaZBias value="0.1" />
+       <jaUgZFA_0x93C52D2C>vFjzCgA_0xFF3456D7</jaUgZFA_0x93C52D2C>
+       <UqAqJIA_0x52A89335 x="0" y="0" z="0" />
+       <emitterSize value="1" />
+       <emitterIntensityMult value="1" />
+       <emitterTintDesaturation value="0.75" />
+       <direction>0 0 -1</direction>
+       <tangent>1.192093E-07 1 0</tangent>
+       <coneInnerAngle value="10" />
+       <coneOuterAngle value="25" />
+       <squareAspectRatio value="1" />
+       <extents>1 0 0</extents>
+       <projectedTextureKey value="3797786715" />
+       <SSAOStrength value="1.5" />
+       <extraFlags value="12800" />
+       <falloffBias value="0" />
+       <KEQjKDA_0x3F4C1BB0 value="0" />
+       <xnzMOUA_0x9C23D4E9 value="0" />
+       <wrapAmount value="0" />
+       <nonDirectionality value="0" />
+       <scaleDirectional value="1" />
+       <ciMauyA_0xA968034C value="0" />
+       <zuvBbAA_0x5148E7B3 value="0" />
+       <uanzvAA_0x83161CBE value="True" />
+       <yNonDHA_0xC11AF51B value="0" />
+       <hNLtnOA_0x53A339C3 value="0" />
+       <GQdKoGA_0x0F06E05A value="0" />
+       <kbeoGZA_0x724AE3FF value="1" />
+       <UuQeEIA_0x73D8B6CB value="0.7" />
+       <gvmiqBA_0x2EBE653A value="0" />
+       <JdptERA_0x208D587D value="0" />
+       <zsUuaBA_0x2E0E4E3C value="1" />
+       <VeekdIA_0xB4B05CF2 value="0" />
+       <OBPcFAA_0x0963B563 value="1000000" />
+       <dynamicShadowFadeDistance value="30" />
+       <lightId value="2855003511" />
+       <blendTime value="15" />
+       <offset value="0" />
+       <pwFikYA_0x30ECA388 x="0.0007324219" y="0" z="0.121170044" />
+       <overrideHash value="2710055501" />
+      </Item>
+     </instances>
+     <additionalInstances />
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x469D9A324150D0F2" />
+   <position x="1377.56921" y="314.4426" z="89.57001" />
+   <rotation x="0.016368" y="-0.0127550019" z="0.9808251" w="0.193782017" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefLightEffect">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances itemType="CLightAttrDef">
+      <Item>
+       <posn>0.0005569458 -0.003068 -0.018544</posn>
+       <colour>255 142 80</colour>
+       <flashiness value="5" />
+       <intensity value="14" />
+       <flags value="4480" />
+       <boneTag value="-4274" />
+       <lightType value="1" />
+       <groupId value="0" />
+       <timeFlags value="15728767" />
+       <falloff value="5" />
+       <falloffExponent value="100" />
+       <cullingPlane>-3.091991E-07 -3.837049E-07 1 5</cullingPlane>
+       <cullingPlane1>-3.091991E-07 -3.837049E-07 1 5</cullingPlane1>
+       <shadowBlur value="114" />
+       <shadowOpacity value="255" />
+       <padding2 value="0" />
+       <roughnessMod value="0" />
+       <volIntensity value="1" />
+       <volSizeScale value="1" />
+       <volOuterColour>255 255 255</volOuterColour>
+       <lightHash value="119" />
+       <volOuterIntensity value="0" />
+       <injectsIntoVoxels value="True" />
+       <coronaSize value="0" />
+       <volOuterExponent value="1" />
+       <lightFadeDistance value="0" />
+       <shadowFadeDistance value="60" />
+       <specularFadeDistance value="0" />
+       <volumetricFadeDistance value="45" />
+       <shadowNearClip value="0.01" />
+       <jwWnkOA_0x4855CDE5 value="0" />
+       <aVNWOWA_0x0DA3D86E value="0" />
+       <coronaIntensity value="0.5" />
+       <coronaZBias value="0.1" />
+       <jaUgZFA_0x93C52D2C>QuLnBFA_0xFB024B5D</jaUgZFA_0x93C52D2C>
+       <UqAqJIA_0x52A89335 x="0" y="0" z="-0.03" />
+       <emitterSize value="1" />
+       <emitterIntensityMult value="1" />
+       <emitterTintDesaturation value="0.75" />
+       <direction>3.091991E-07 3.837049E-07 -1</direction>
+       <tangent>-1.148263E-06 1 3.837049E-07</tangent>
+       <coneInnerAngle value="10" />
+       <coneOuterAngle value="25" />
+       <squareAspectRatio value="1" />
+       <extents>1 0 0</extents>
+       <projectedTextureKey value="3797786715" />
+       <SSAOStrength value="0.5" />
+       <extraFlags value="12800" />
+       <falloffBias value="0.015" />
+       <KEQjKDA_0x3F4C1BB0 value="0" />
+       <xnzMOUA_0x9C23D4E9 value="0" />
+       <wrapAmount value="0" />
+       <nonDirectionality value="0" />
+       <scaleDirectional value="1" />
+       <ciMauyA_0xA968034C value="0" />
+       <zuvBbAA_0x5148E7B3 value="0" />
+       <uanzvAA_0x83161CBE value="True" />
+       <yNonDHA_0xC11AF51B value="0" />
+       <hNLtnOA_0x53A339C3 value="0" />
+       <GQdKoGA_0x0F06E05A value="0" />
+       <kbeoGZA_0x724AE3FF value="1" />
+       <UuQeEIA_0x73D8B6CB value="0.7" />
+       <gvmiqBA_0x2EBE653A value="0" />
+       <JdptERA_0x208D587D value="0" />
+       <zsUuaBA_0x2E0E4E3C value="1" />
+       <VeekdIA_0xB4B05CF2 value="0" />
+       <OBPcFAA_0x0963B563 value="1000000" />
+       <dynamicShadowFadeDistance value="30" />
+       <lightId value="2855003511" />
+       <blendTime value="15" />
+       <offset value="0" />
+       <pwFikYA_0x30ECA388 x="0.00048828125" y="0" z="0.121170044" />
+       <overrideHash value="2710055501" />
+      </Item>
+     </instances>
+     <additionalInstances />
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x438DEDA2C7C78857" />
+   <position x="1423.26514" y="284.1397" z="91.10734" />
+   <rotation x="-0.013622" y="0.012281" z="0.669502" w="0.7425839" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefLightEffect">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances itemType="CLightAttrDef">
+      <Item>
+       <posn>0.0005569458 -0.003068 -0.018544</posn>
+       <colour>255 128 59</colour>
+       <flashiness value="5" />
+       <intensity value="7" />
+       <flags value="4480" />
+       <boneTag value="-4274" />
+       <lightType value="1" />
+       <groupId value="0" />
+       <timeFlags value="15728767" />
+       <falloff value="5" />
+       <falloffExponent value="200" />
+       <cullingPlane>-4.67838E-07 3.688037E-07 1 5</cullingPlane>
+       <cullingPlane1>-4.67838E-07 3.688037E-07 1 5</cullingPlane1>
+       <shadowBlur value="114" />
+       <shadowOpacity value="255" />
+       <padding2 value="0" />
+       <roughnessMod value="0" />
+       <volIntensity value="1" />
+       <volSizeScale value="1" />
+       <volOuterColour>255 255 255</volOuterColour>
+       <lightHash value="119" />
+       <volOuterIntensity value="0" />
+       <injectsIntoVoxels value="True" />
+       <coronaSize value="0" />
+       <volOuterExponent value="1" />
+       <lightFadeDistance value="0" />
+       <shadowFadeDistance value="60" />
+       <specularFadeDistance value="0" />
+       <volumetricFadeDistance value="45" />
+       <shadowNearClip value="0.01" />
+       <jwWnkOA_0x4855CDE5 value="0" />
+       <aVNWOWA_0x0DA3D86E value="0" />
+       <coronaIntensity value="0.5" />
+       <coronaZBias value="0.1" />
+       <jaUgZFA_0x93C52D2C>QuLnBFA_0xFB024B5D</jaUgZFA_0x93C52D2C>
+       <UqAqJIA_0x52A89335 x="0" y="0" z="-0.03" />
+       <emitterSize value="1" />
+       <emitterIntensityMult value="1" />
+       <emitterTintDesaturation value="0.75" />
+       <direction>4.676051E-07 -3.650784E-07 -0.9999999</direction>
+       <tangent>1.312708E-06 1 -3.762543E-07</tangent>
+       <coneInnerAngle value="10" />
+       <coneOuterAngle value="25" />
+       <squareAspectRatio value="1" />
+       <extents>1 0 0</extents>
+       <projectedTextureKey value="3797786715" />
+       <SSAOStrength value="0.5" />
+       <extraFlags value="12800" />
+       <falloffBias value="0.015" />
+       <KEQjKDA_0x3F4C1BB0 value="0" />
+       <xnzMOUA_0x9C23D4E9 value="0" />
+       <wrapAmount value="0" />
+       <nonDirectionality value="0" />
+       <scaleDirectional value="1" />
+       <ciMauyA_0xA968034C value="0" />
+       <zuvBbAA_0x5148E7B3 value="0" />
+       <uanzvAA_0x83161CBE value="True" />
+       <yNonDHA_0xC11AF51B value="0" />
+       <hNLtnOA_0x53A339C3 value="0" />
+       <GQdKoGA_0x0F06E05A value="0" />
+       <kbeoGZA_0x724AE3FF value="1" />
+       <UuQeEIA_0x73D8B6CB value="0.7" />
+       <gvmiqBA_0x2EBE653A value="0" />
+       <JdptERA_0x208D587D value="0" />
+       <zsUuaBA_0x2E0E4E3C value="1" />
+       <VeekdIA_0xB4B05CF2 value="0" />
+       <OBPcFAA_0x0963B563 value="1000000" />
+       <dynamicShadowFadeDistance value="30" />
+       <lightId value="2855003511" />
+       <blendTime value="15" />
+       <offset value="0" />
+       <pwFikYA_0x30ECA388 x="0.00065612793" y="-0.000244140625" z="0.121162415" />
+       <overrideHash value="2710055501" />
+      </Item>
+     </instances>
+     <additionalInstances />
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>p_lantern05x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4C5D8AF9C1B0F1A9" />
+   <position x="1407.99084" y="267.6301" z="90.92668" />
+   <rotation x="-0.0181640014" y="-0.00254100049" z="-0.138504013" w="0.990192056" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+ </entities>
+ <containerLods />
+ <boxOccluders />
+ <occludeModels />
+ <physicsDictionaries>
+  <Item>gkkbxJA_0x71E1C086</Item>
+  <Item>p_lumber</Item>
+  <Item>p_roadside</Item>
+ </physicsDictionaries>
+ <instancedData type="rage__fwInstancedMapData">
+  <ImapLink />
+  <PropInstanceList />
+  <GrassInstanceList />
+ </instancedData>
+ <timeCycleModifiers />
+ <awOyxCA_0x8471928B />
+ <dakdTAA_0x4D4A0635 />
+ <carGenerators />
+ <LODLightsSOA type="CLODLight">
+  <direction />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+  <XVPnEEA_0xFFD167D6 />
+ </LODLightsSOA>
+ <DistantLODLightsSOA type="CDistantLODLight">
+  <position />
+  <RGB />
+  <intensity />
+  <numStreetLights value="0" />
+  <category value="0" />
+  <powerGridId />
+  <hash />
+ </DistantLODLightsSOA>
+ <block type="CBlockDesc">
+  <version value="0" />
+  <flags value="0" />
+  <name />
+  <exportedBy />
+  <owner />
+  <time />
+ </block>
+</CMapData>

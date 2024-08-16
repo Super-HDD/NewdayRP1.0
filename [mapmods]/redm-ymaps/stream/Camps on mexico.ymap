@@ -1,0 +1,1151 @@
+<?xml version="1.0"?>
+<CMapData>
+  <flags value="2"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="-6291.3281" y="-5484.9507" z="-427.3304"/>
+  <streamingExtentsMax x="-616.9589" y="-2610.6318" z="462.186699"/>
+  <entitiesExtentsMin x="-5891.3281" y="-5084.9507" z="-27.3304"/>
+  <entitiesExtentsMax x="-1016.9589" y="-3010.6318" z="62.186699"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5874.1514" y="-4560.0918" z="0.1523"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5874.5063" y="-4557.0112" z="0.31029999"/>
+      <rotation w="0.99939" x="0" y="0" z="0.0349"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5891.3281" y="-4147.5747" z="-23.944599"/>
+      <rotation w="0.01746" x="0" y="0" z="-0.99985"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5890.8306" y="-4143.688" z="-24.0042"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5666.8374" y="-4800.2988" z="-11.5078"/>
+      <rotation w="0.51504" x="0" y="0" z="-0.85717"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5663.8457" y="-4798.1807" z="-11.3352"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5553.2217" y="-4634.9736" z="2.2729001"/>
+      <rotation w="0.93969" x="0" y="0" z="-0.34202"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5550.7993" y="-4637.6772" z="2.3380001"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5337.2515" y="-4394.541" z="-23.276899"/>
+      <rotation w="0.99255" x="0" y="0" z="0.12188"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5338.5562" y="-4398.0034" z="-23.1961"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5152.1582" y="-4325.6021" z="-26.033701"/>
+      <rotation w="0.68835" x="0" y="0" z="0.72538"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5155.5103" y="-4325.1274" z="-26.184401"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5049.7578" y="-4661.2178" z="-13.0665"/>
+      <rotation w="0.84805" x="0" y="0" z="-0.52992"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-5046.7759" y="-4664.0884" z="-13.0791"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4693.748" y="-4828.7847" z="36.2789"/>
+      <rotation w="0.14782" x="0" y="0" z="-0.98901"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4691.9722" y="-4825.7266" z="36.4632"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4432.3184" y="-4565.0674" z="2.4956"/>
+      <rotation w="0.49242" x="0" y="0" z="0.87036"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4437.0723" y="-4565.7295" z="3.0653"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4622.8433" y="-4162.1855" z="-23.4776"/>
+      <rotation w="0.34203" x="0" y="0" z="-0.93969"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4620.3628" y="-4158.5879" z="-23.444201"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4380.0591" y="-4120.5444" z="-17.751499"/>
+      <rotation w="0.47716" x="0" y="0" z="-0.87881"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4309.7524" y="-4028.4419" z="-27.270599"/>
+      <rotation w="0.5225" x="0" y="0" z="0.85264"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4375.8481" y="-4118.4277" z="-17.534"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4314.3174" y="-4027.9326" z="-27.3304"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4121.7559" y="-4559.9434" z="17.032301"/>
+      <rotation w="0.97437" x="0" y="0" z="0.22495"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4123.6523" y="-4563.9053" z="16.938"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4153.481" y="-4721.3843" z="24.9627"/>
+      <rotation w="0.91355" x="0" y="0" z="0.40674"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3948.5459" y="-4953.688" z="-3.1605"/>
+      <rotation w="0.66262" x="0" y="0" z="0.74895"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3953.2676" y="-4952.6704" z="-3.4094999"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3708.5024" y="-4674.7612" z="-9.4516001"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3708.3462" y="-4671.187" z="-9.2143002"/>
+      <rotation w="0.98769" x="0" y="0" z="0.15643"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3583.687" y="-4300.3291" z="-18.1434"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3584.2476" y="-4304.1982" z="-18.1248"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3592.0454" y="-3998.0991" z="-17.3929"/>
+      <rotation w="0.93624" x="-0.0286" y="-0.01069" z="-0.35004"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3588.7461" y="-4000.3779" z="-17.6663"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3170.2986" y="-4053.2356" z="-20.2304"/>
+      <rotation w="0.65606" x="0" y="0" z="-0.75471"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3165.8862" y="-4052.9719" z="-20.104"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirecharsml01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2933.8711" y="-4633.9204" z="-12.1028"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2931.3159" y="-4631.1479" z="-12.1028"/>
+      <rotation w="0.94552" x="0" y="0" z="0.32557"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3366.1841" y="-4814.7822" z="-14.1176"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3369.7466" y="-4814.8281" z="-14.118"/>
+      <rotation w="0.81412" x="0" y="0" z="-0.5807"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2520.3772" y="-5084.9507" z="-18.9582"/>
+      <rotation w="0.02618" x="0" y="0" z="-0.99966"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2517.9612" y="-5081.4453" z="-18.8424"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3194.9502" y="-4919.4863" z="-0.80089998"/>
+      <rotation w="0.98481" x="0" y="0" z="0.17365"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-3196.4336" y="-4923.3525" z="-0.60250002"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp_big_rock_scan_02</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2746.8857" y="-3692.8728" z="49.077301"/>
+      <rotation w="0.99905" x="0" y="0" z="0.04362"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp_big_rock_scan_07</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2748.4351" y="-3693.8601" z="54.817299"/>
+      <rotation w="0.1237" x="0.20792" y="-0.83387" z="0.49612"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp_big_rock_scan_02</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2749.5168" y="-3693.6069" z="49.086102"/>
+      <rotation w="0.99905" x="0" y="0" z="0.04362"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2722.2979" y="-3698.6428" z="45.183498"/>
+      <rotation w="0.9954" x="0" y="0" z="-0.09585"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2721.5378" y="-3703.5581" z="45.202499"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2833.9204" y="-4163.0474" z="39.093399"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2832.3752" y="-4158.915" z="39.093399"/>
+      <rotation w="0.97237" x="0" y="0" z="0.23345"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2206.2424" y="-3743.6663" z="30.3908"/>
+      <rotation w="0.64945" x="0" y="0" z="0.7604"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2209.8625" y="-3740.8464" z="30.5784"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1968.8922" y="-3684.2366" z="-2.6056001"/>
+      <rotation w="0.87462" x="0" y="0" z="-0.48481"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1966.2281" y="-3686.9226" z="-2.5653999"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1900.8134" y="-4256.813" z="-6.2806001"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1904.6129" y="-4255.9468" z="-6.3182001"/>
+      <rotation w="0.69466" x="0" y="0" z="-0.71934"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2220.3032" y="-4304.8403" z="-6.4158001"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2216.7068" y="-4306.9604" z="-6.6887999"/>
+      <rotation w="0.57358" x="0" y="0" z="0.81915"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2486.0981" y="-4497.3184" z="-16.1187"/>
+      <rotation w="0.83867" x="0" y="0" z="-0.54464"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2482.7512" y="-4500.0171" z="-16.1187"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1651.2834" y="-3700.9426" z="-1.8643"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1649.6658" y="-3704.0698" z="-1.8746001"/>
+      <rotation w="0.19081" x="0" y="0" z="0.98163"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1021.6956" y="-3378.4878" z="25.952999"/>
+      <rotation w="0.92718" x="0" y="0" z="-0.37461"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1016.9589" y="-3378.6272" z="26.048201"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1445.5187" y="-3010.6318" z="62.186699"/>
+      <rotation w="0.98481" x="0" y="0" z="-0.17365"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1444.3671" y="-3014.8269" z="61.975899"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1812.092" y="-3400.9082" z="41.709"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1808.5037" y="-3399.7883" z="41.849201"/>
+      <rotation w="0.77715" x="0" y="0" z="0.62932"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1234.9307" y="-3836.1697" z="-3.1916001"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1234.9045" y="-3836.0735" z="-3.1206"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_tentarmypup01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-1231.6976" y="-3838.3669" z="-3.1552999"/>
+      <rotation w="0.57358" x="0" y="0" z="0.81915"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2012.775" y="-3945.9592" z="-2.1663001"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-2029.4012" y="-4107.9971" z="-0.30340001"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_campfirechar01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="-4157.4082" y="-4724.041" z="24.9627"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="1000000"/>
+      <childLodDist value="1000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+  </entities>
+</CMapData>

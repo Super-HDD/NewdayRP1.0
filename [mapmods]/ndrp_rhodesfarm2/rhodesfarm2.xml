@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Map>
+	<MapMeta Creator="**Invalid**"/>
+	<Object Hash="-1793145297" Position_x="1397.0769042969" Position_y="-1621.9030761719" Position_z="67.237869262695" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="86.183982849121" Collision="true" Visible="true"/>
+	<Object Hash="1492463603" Position_x="1414.2087402344" Position_y="-1637.9019775391" Position_z="66.425308227539" Rotation_x="0.0" Rotation_y="0.0" Rotation_z="52.789596557617" Collision="true" Visible="true"/>
+	<Object Hash="-1793145297" Position_x="1447.7576904297" Position_y="-1582.2183837891" Position_z="71.411567687988" Rotation_x="5.0206232070923" Rotation_y="3.1626408100128" Rotation_z="-10.740133285522" Collision="true" Visible="true"/>
+	<Object Hash="-2072855943" Position_x="1450.3118896484" Position_y="-1566.4176025391" Position_z="70.606811523438" Rotation_x="1.1691373586655" Rotation_y="-7.7419300079346" Rotation_z="-80.518455505371" Collision="true" Visible="true"/>
+	<Object Hash="661604955" Position_x="1422.9033203125" Position_y="-1586.8895263672" Position_z="68.023941040039" Rotation_x="6.1563463211059" Rotation_y="-4.6844925880432" Rotation_z="-25.272087097168" Collision="true" Visible="true"/>
+</Map>

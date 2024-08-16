@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <loadFlags value="0x0000000000000000" />
+		<lodDist value="299" />
+		 <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-50.3133049" y="-51.3614616" z="-13.7992523"/>
+      <bbMax x="51.0949516" y="52.5108795" z="17.4939861"/>
+      <bsCentre x="5.3908234" y="0.5747089" z="1.8473670"/>
+      <bsRadius value="200.3824"/>      
+      <hdTextureDist value="60.0"/>
+      <name>saule3</name>
+      <textureDictionary>saule3</textureDictionary>
+      <physicsDictionary>saule3</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>saule3</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>saule3</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

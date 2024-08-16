@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<CMapData>
+  <flags value="2"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="1890.3544921875" y="-1830.8588867188" z="-354.079456329346"/>
+  <streamingExtentsMax x="2715.3088378906" y="-1028.1619873047" z="446.032295227051"/>
+  <entitiesExtentsMin x="2290.3544921875" y="-1430.8588867188" z="45.920543670654"/>
+  <entitiesExtentsMax x="2315.3088378906" y="-1428.1619873047" z="46.032295227051"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>p_enginefactory01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2290.3544921875" y="-1430.8588867188" z="45.920543670654"/>
+      <rotation w="0.0532" x="0" y="0" z="0.99858"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_sugarsacknbx01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2315.3088378906" y="-1428.1619873047" z="46.030696868896"/>
+      <rotation w="0.6723" x="0" y="0" z="-0.74028"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_sugarsacknbx01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2301.0412597656" y="-1429.6712646484" z="46.020095825195"/>
+      <rotation w="0.68721" x="0" y="0" z="-0.72646"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_sugarsacknbx01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2293.9033203125" y="-1430.2277832031" z="46.021797180176"/>
+      <rotation w="0.68281" x="0" y="0" z="-0.7306"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_enginefactory01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2304.3481445313" y="-1429.095703125" z="46.014801025391"/>
+      <rotation w="0.05593" x="0" y="0" z="0.99843"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_enginefactory01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2311.6088867188" y="-1428.6474609375" z="46.032199859619"/>
+      <rotation w="0.02352" x="0" y="0" z="0.99972"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_sugarsacknbx01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2308.2121582031" y="-1428.9055175781" z="46.032295227051"/>
+      <rotation w="0.70458" x="0" y="0" z="-0.70962"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>p_enginefactory01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2297.3530273438" y="-1429.6762695313" z="46.028198242188"/>
+      <rotation w="0.05594" x="0" y="0" z="0.99843"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+  </entities>
+</CMapData>

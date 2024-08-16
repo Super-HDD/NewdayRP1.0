@@ -1,0 +1,18 @@
+.root
+{
+    position: absolute;
+    bottom: 5vh;
+    left: 6vh;
+
+    display:flex;
+
+    flex-direction: column;
+
+    justify-content: flex-end;
+    align-items: flex-start;
+
+    width: max-content;
+    height: 40vh;
+
+    // background: yellow;
+}

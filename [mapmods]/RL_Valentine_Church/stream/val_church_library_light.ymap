@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-245.000000" y="790.000000" z="95.000000"/>
+	<streamingExtentsMax x="-200.000000" y="825.000000" z="135.000000"/>
+	<entitiesExtentsMin x="-222.395264" y="799.644592" z="124.095001"/>
+	<entitiesExtentsMax x="-218.169662" y="803.498352" z="128.740005"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>P_LAMPSTANDING06X</archetypeName>
+			<flags value="1572897"/>
+			<position x="-222.395264" y="802.262268" z="124.095001"/>
+			<rotation w="0.963457" x="0.000000" y="-0.000000" z="-0.267863"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>P_LAMPSTANDING06X</archetypeName>
+			<flags value="1572897"/>
+			<position x="-220.360107" y="803.498352" z="124.095001"/>
+			<rotation w="0.962867" x="0.000000" y="-0.000000" z="-0.269976"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_lamphanging13x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-221.712158" y="799.644592" z="128.740005"/>
+			<rotation w="0.269535" x="-0.000000" y="0.000000" z="0.962991"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_lamp05dx</archetypeName>
+			<flags value="1572897"/>
+			<position x="-218.169662" y="801.697754" z="128.645004"/>
+			<rotation w="0.578951" x="-0.000000" y="0.000000" z="0.815362"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

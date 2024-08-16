@@ -1,0 +1,14 @@
+#SpeedIndicator {
+  color: white;
+  position: inherit;
+  z-index: 1000;
+  left: 1vh;
+  top: 0.1vh;
+  width: 3vh;
+  font-size: 2vh;
+  text-align: center;
+  text-shadow: 0.2vh 0.2vh 0vh rgb(22, 22, 22);
+  transform: rotate(-180deg);
+}
+
+

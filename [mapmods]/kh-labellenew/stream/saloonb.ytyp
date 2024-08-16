@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="500"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.532188" y="-1.7232049" z="-0.073910594" />
+      <bbMax x="2.634" y="1.8243825" z="2.5968263" />
+      <bsCentre x="0.050906062" y="0.050588846" z="1.2614579" />
+      <bsRadius value="3.4061604" />
+      <hdTextureDist value="60.0"/>
+      <name>saloonb</name>
+      <textureDictionary>saloonb</textureDictionary>
+      <physicsDictionary>saloonb</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>saloonb</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>saloonb</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<CMapData>
+  <flags value="2"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="2491.1985" y="-1629.7412" z="-355.729599"/>
+  <streamingExtentsMax x="3291.1985" y="-829.7412" z="444.270401"/>
+  <entitiesExtentsMin x="2891.1985" y="-1229.7412" z="44.270401"/>
+  <entitiesExtentsMax x="2891.1985" y="-1229.7412" z="44.270401"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>p_well03x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2891.1985" y="-1229.7412" z="44.270401"/>
+      <rotation w="1" x="0" y="0" z="0"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+  </entities>
+</CMapData>
